@@ -1,0 +1,150 @@
+{
+    "nombre": "I Legislatura",
+    "url": "https://presidencia.gva.es/es/i-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PSPV-PSOE) de 23.02.1987 a 27.07.1987",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Administración Pública"
+                },
+                {
+                    "nombre": "Miguel Doménech Pastor",
+                    "cargo": "Conseller de Trabajo y Seguridad Social"
+                },
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda"
+                },
+                {
+                    "nombre": "Andrés García Reche",
+                    "cargo": "Conseller de Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/02/23/pdf/1987_808211.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PSPV-PSOE) de 24.07.1985 a 22.02.1987",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804707.pdf"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804705.pdf"
+                },
+                {
+                    "nombre": "Miguel Doménech Pastor",
+                    "cargo": "Conseller de Trabajo y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804707.pdf"
+                },
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda"
+                },
+                {
+                    "nombre": "Segundo Bru Parra",
+                    "cargo": "Conseller de Industria, Comercio y Turismo"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/25/pdf/1985_804711.pdf"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PSPV-PSOE) de 28.06.1983 a 23.07.1985",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente y Conseller de Gobernación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/29/pdf/1983_802313.pdf"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de la Presidencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Miguel Ángel Millana Sansaturio",
+                    "cargo": "Conseller de Sanidad, Seguridad Social y Trabajo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Segundo Bru Parra",
+                    "cargo": "Conseller de Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Vicente Llombart Rosa",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                }
+            ]
+        }
+    ]
+}

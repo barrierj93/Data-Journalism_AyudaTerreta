@@ -1,0 +1,216 @@
+{
+    "nombre": "VII Legislatura",
+    "url": "https://presidencia.gva.es/es/vii-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PP) de 31.08.2009 a 22.06.2011",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Industria, Comercio e Innovación y Vicepresidente 1º",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                },
+                {
+                    "nombre": "Manuel Cervera Taulet",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º"
+                },
+                {
+                    "nombre": "Belén Juste Picón",
+                    "cargo": "Consellera de Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                },
+                {
+                    "nombre": "Juan Gabriel Cotino Ferrer",
+                    "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda y Vicepresidente 3º",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                },
+                {
+                    "nombre": "Mario Flores Lanuza",
+                    "cargo": "Conseller de Infraestructuras y Transporte"
+                },
+                {
+                    "nombre": "Paula Sánchez de León",
+                    "cargo": "Consellera de Justicia y Administraciones Públicas"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación"
+                },
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Educación"
+                },
+                {
+                    "nombre": "Angélica Such Ronda",
+                    "cargo": "Consellera de Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                },
+                {
+                    "nombre": "Trinidad María Miró Mira",
+                    "cargo": "Consellera de Cultura y Deporte"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Inmigración y Ciudadanía"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PP) de 19.09.2008 a 31.08.2009",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Presidencia y Vicepresidente 1º"
+                },
+                {
+                    "nombre": "Belén Juste Picón",
+                    "cargo": "Consellera de Industria, Comercio e Innovación"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                },
+                {
+                    "nombre": "Juan Gabriel Cotino Ferrer",
+                    "cargo": "Conseller de Bienestar Social y Vicepresidente 3º"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda"
+                },
+                {
+                    "nombre": "Paula Sánchez de León",
+                    "cargo": "Consellera de Justicia y Administraciones Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2008/09/19/pdf/2008_10883.pdf"
+                },
+                {
+                    "nombre": "Mario Flores Lanuza",
+                    "cargo": "Conseller de Infraestructuras y Transporte"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación"
+                },
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Educación"
+                },
+                {
+                    "nombre": "Angélica Such Ronda",
+                    "cargo": "Consellera de Turismo"
+                },
+                {
+                    "nombre": "Trinidad María Miró Mira",
+                    "cargo": "Consellera de Cultura y Deporte"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Inmigración y Ciudadanía"
+                },
+                {
+                    "nombre": "Manuel Cervera Taulet",
+                    "cargo": "Conseller de Sanidad"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PP) de 29.06.2007 a 19.09.2008",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Presidencia y Vicepresidente 1º",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Belén Juste Picón",
+                    "cargo": "Consellera de Industria, Comercio e Innovación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Juan Gabriel Cotino Ferrer",
+                    "cargo": "Conseller de Bienestar Social y Vicepresidente 3º",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Mario Flores Lanuza",
+                    "cargo": "Conseller de Infraestructuras y Transporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Fernando de Rosa Torner",
+                    "cargo": "Consellera de Justicia y Administraciones Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Educación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Angélica Such Ronda",
+                    "cargo": "Consellera de Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Trinidad María Miró Mira",
+                    "cargo": "Consellera de Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Inmigración y Ciudadanía",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                },
+                {
+                    "nombre": "Manuel Cervera Taulet",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                }
+            ]
+        }
+    ]
+}

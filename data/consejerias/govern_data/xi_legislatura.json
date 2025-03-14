@@ -1,0 +1,161 @@
+{
+    "nombre": "XI Legislatura",
+    "url": "https://presidencia.gva.es/es/xi-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PP) de 23.11.2024",
+            "presidente": {
+                "nombre": "Carlos Mazón Guixot",
+                "cargo": "President"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Susana Camarero Benítez",
+                    "cargo": "Vicepresidenta primera i consellera de Servicios Sociales, Igualdad y Vivienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                },
+                {
+                    "nombre": "Francisco José Gan Pampols",
+                    "cargo": "Vicepresidente segundo y conseller para la Recuperación Económica y Social de la Comunitat Valenciana",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                },
+                {
+                    "nombre": "Ruth Merino Peña",
+                    "cargo": "Consellera de Hacienda y Economía",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                },
+                {
+                    "nombre": "Marciano Gómez Gómez",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Nuria Martínez Sanchis",
+                    "cargo": "Conseller de Justicia y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                },
+                {
+                    "nombre": "Juan Carlos Valderrama Zurián",
+                    "cargo": "Conseller de Emergencias e Interior",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_va.pdf"
+                },
+                {
+                    "nombre": "José Antonio Rovira Jover",
+                    "cargo": "Conseller de Educación, Cultura, Universidades y Empleo"
+                },
+                {
+                    "nombre": "Miguel Barrachina Ros",
+                    "cargo": "Conseller de Agricultura, Agua, Ganadería, y Pesca"
+                },
+                {
+                    "nombre": "Vicente Martínez Mus",
+                    "cargo": "Conseller de Medio Ambiente, Infraestructuras y Territorio"
+                },
+                {
+                    "nombre": "María Ángela Cano García",
+                    "cargo": "Consellera de Innovación, Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PP) de 12.07.2024 - 22.11.2024",
+            "presidente": {
+                "nombre": "Carlos Mazón Guixot",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Susana Camarero Benítez",
+                    "cargo": "Vicepresidenta  y consellera de Servicios Sociales, Igualdad y Vivienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                },
+                {
+                    "nombre": "Ruth Merino Peña",
+                    "cargo": "Consellera de Hacienda, Economía y Administración Pública"
+                },
+                {
+                    "nombre": "Salomé Pradas Ten",
+                    "cargo": "Consellera de Justicia e Interior",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                },
+                {
+                    "nombre": "Marciano Gómez Gómez",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Jose Antonio Rovira Jover",
+                    "cargo": "Conseller de Educación, Cultura, Universidades y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                },
+                {
+                    "nombre": "Miguel Barrachina Ros",
+                    "cargo": "Conseller de Agricultura, Agua, Ganadería y Pesca",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                },
+                {
+                    "nombre": "Vicente Martínez Mus",
+                    "cargo": "Consellera de Medio Ambiente, Infraestructuras y Territorio",
+                    "enlace_nombramiento": "Agricultura, Agua, Ganadería y Pesca"
+                },
+                {
+                    "nombre": "Nuria Montes de Diego",
+                    "cargo": "Consellera de Innovación, Industria, Comercio y Turismo"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PP+VOX) de 17.07.2023 - 11.07.2024",
+            "presidente": {
+                "nombre": "Carlos Mazón Guixot",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Vicente José Barrera Simó",
+                    "cargo": "Vicepresidente primero y conseller de Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Susana Camarero Benítez",
+                    "cargo": "Vicepresidenta segunda y consellera de Servicios Sociales, Igualdad y Vivienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Ruth Merino Peña",
+                    "cargo": "Consellera de Hacienda, Economía y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Elisa María Núñez Sánchez",
+                    "cargo": "Consellera de Justicia e Interior",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Marciano Gómez Gómez",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Jose Antonio Rovira Jover",
+                    "cargo": "Conseller de Educación, Universidades y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Jose Luis Aguirre Larrauri",
+                    "cargo": "Conseller de Agricultura, Ganadería y Pesca",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Salomé Pradas Ten",
+                    "cargo": "Consellera de Medio Ambiente, Agua, Infraestructuras y Territorio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                },
+                {
+                    "nombre": "Nuria Montes de Diego",
+                    "cargo": "Consellera de Innovación, Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                }
+            ]
+        }
+    ]
+}

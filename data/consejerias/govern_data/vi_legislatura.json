@@ -1,0 +1,191 @@
+{
+    "nombre": "VI Legislatura",
+    "url": "https://presidencia.gva.es/es/vi-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PP) de 30.05.2006 a 29.06.2007",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Víctor Campos Guinot",
+                    "cargo": "Vicepresidente"
+                },
+                {
+                    "nombre": "Juan Gabriel Cotino Ferrer",
+                    "cargo": "Conseller de Agricultura, Pesca y Alimentación"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo"
+                },
+                {
+                    "nombre": "Esteban González Pons",
+                    "cargo": "Conseller de Territorio y Vivienda"
+                },
+                {
+                    "nombre": "Miguel Peralta Viñes",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas"
+                },
+                {
+                    "nombre": "Alicia de Miguel García",
+                    "cargo": "Consellera de Bienestar Social"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Infraestructuras y Transporte"
+                },
+                {
+                    "nombre": "María Milagrosa Martínez Navarro",
+                    "cargo": "Consellera de Turismo"
+                },
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Cultura, Educación y Deporte"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Relaciones Institucionales y Comunicación y Portavoz del Consell de la Generalitat (sin cartera)"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Gema Amor Pérez",
+                    "cargo": "Consellera de Cooperación y Participación (sin cartera)"
+                },
+                {
+                    "nombre": "Justo Nieto Nieto",
+                    "cargo": "Conseller de Empresa, Universidad y Ciencia"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PP) de 27.08.2004 a 30.05.2006",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Víctor Campos Guinot",
+                    "cargo": "Vicepresidente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                },
+                {
+                    "nombre": "Juan Gabriel Cotino Ferrer",
+                    "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Territorio y Vivienda"
+                },
+                {
+                    "nombre": "Miguel Peralta Viñes",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas"
+                },
+                {
+                    "nombre": "Alicia de Miguel García",
+                    "cargo": "Consellera de Bienestar Social"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Infraestructuras y Transporte"
+                },
+                {
+                    "nombre": "María Milagrosa Martínez Navarro",
+                    "cargo": "Consellera de Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                },
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Cultura, Educación y Deporte"
+                },
+                {
+                    "nombre": "Esteban González Pons",
+                    "cargo": "Conseller de Relaciones Institucionales y Comunicación y Portavoz del Consell de la Generalitat (sin cartera)"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Gema Amor Pérez",
+                    "cargo": "Consellera de Cooperación y Participación (sin cartera)"
+                },
+                {
+                    "nombre": "Justo Nieto Nieto",
+                    "cargo": "Conseller de Empresa, Universidad y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PP) de 21.06.2003 a 27.08.2004",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Alejandro Font de Mora Turón",
+                    "cargo": "Conseller de Presidencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Gerardo Camps Devesa",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Miguel Peralta Viñes",
+                    "cargo": "Conseller de Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Víctor Campos Guinot",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Gema Amor Pérez",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Infraestructuras y Transporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Territorio y Vivienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Esteban González Pons",
+                    "cargo": "Conseller de Cultura, Educación y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                },
+                {
+                    "nombre": "Alicia de Miguel García",
+                    "cargo": "Consellera de Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                }
+            ]
+        }
+    ]
+}

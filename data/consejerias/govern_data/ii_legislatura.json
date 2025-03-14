@@ -1,0 +1,139 @@
+{
+    "nombre": "II Legislatura",
+    "url": "https://presidencia.gva.es/es/ii-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PSPV-PSOE) de 30.12.1989 a 16.07.1991",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo"
+                },
+                {
+                    "nombre": "Emèrit Bono i Martínez",
+                    "cargo": "Conseller de Administración Pública"
+                },
+                {
+                    "nombre": "Miguel Doménech Pastor",
+                    "cargo": "Conseller de Trabajo y Seguridad Social"
+                },
+                {
+                    "nombre": "Eugenio Burriel de Orueta",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1989/12/30/pdf/1989_816108.pdf"
+                },
+                {
+                    "nombre": "Andrés García Reche",
+                    "cargo": "Conseller de Industria, Comercio y Turismo"
+                },
+                {
+                    "nombre": "Antoni Escarré Esteve",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PSPV-PSOE) de 19.09.1989 a 29.12.1989",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo"
+                },
+                {
+                    "nombre": "Emèrit Bono i Martínez",
+                    "cargo": "Conseller de Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1989/09/19/pdf/1989_815116.pdf"
+                },
+                {
+                    "nombre": "Miguel Doménech Pastor",
+                    "cargo": "Conseller de Trabajo y Seguridad Social"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                },
+                {
+                    "nombre": "Andrés García Reche",
+                    "cargo": "Conseller de Industria, Comercio y Turismo"
+                },
+                {
+                    "nombre": "Antoni Escarré Esteve",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PSPV-PSOE) de 27.07.1987 a 18.09.1989",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Joaquín Azagra Ros",
+                    "cargo": "Conseller de Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Miguel Doménech Pastor",
+                    "cargo": "Conseller de Trabajo y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Andrés García Reche",
+                    "cargo": "Conseller de Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                }
+            ]
+        }
+    ]
+}

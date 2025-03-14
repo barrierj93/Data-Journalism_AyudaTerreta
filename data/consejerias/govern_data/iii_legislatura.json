@@ -1,0 +1,116 @@
+{
+    "nombre": "III Legislatura",
+    "url": "https://presidencia.gva.es/es/iii-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Segundo gobierno (PSPV-PSOE) de 12.07.1993 a 6.07.1995",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Aurelio Martínez Estévez",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828622.pdf"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo"
+                },
+                {
+                    "nombre": "Luis Berenguer Fuster",
+                    "cargo": "Conseller de Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828623.pdf"
+                },
+                {
+                    "nombre": "Francisco Javier Sanahuja Sanchís",
+                    "cargo": "Conseller de Trabajo y Asuntos Sociales",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828626.pdf"
+                },
+                {
+                    "nombre": "Eugenio Burriel de Orueta",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transporte"
+                },
+                {
+                    "nombre": "Martín Sevilla Jiménez",
+                    "cargo": "Conseller de Industria, Comercio y Turismo"
+                },
+                {
+                    "nombre": "Pilar Pedraza Martínez",
+                    "cargo": "Consellera de Cultura",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828624.pdf"
+                },
+                {
+                    "nombre": "Josep María Coll Comín",
+                    "cargo": "Conseller de Agricultura y Pesca",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828627.pdf"
+                },
+                {
+                    "nombre": "Joan Romero González",
+                    "cargo": "Conseller de Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828625.pdf"
+                },
+                {
+                    "nombre": "Emèrit Bono i Martínez",
+                    "cargo": "Conseller de Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/13/pdf/1993_828632.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PSPV-PSOE) de 16.07.1991 a 11.07.1993",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Martín Sevilla Jiménez",
+                    "cargo": "Conseller de Trabajo y Asuntos Sociales",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Emèrit Bono i Martínez",
+                    "cargo": "Conseller de Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Andrés García Reche",
+                    "cargo": "Conseller de Industria, Comercio y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Eugenio Burriel de Orueta",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Luis Font de Mora Montesinos",
+                    "cargo": "Conseller de Agricultura y Pesca",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Andreu López Blasco",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Antoni Escarré Esteve",
+                    "cargo": "Conseller de Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                },
+                {
+                    "nombre": "Joaquín Colomer Sala",
+                    "cargo": "Conseller de Sanidad y Consumo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                }
+            ]
+        }
+    ]
+}

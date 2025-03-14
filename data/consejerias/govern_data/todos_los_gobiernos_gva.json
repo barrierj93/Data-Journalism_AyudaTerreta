@@ -1,0 +1,2752 @@
+[
+    {
+        "nombre": "Gobierno Preautonómico",
+        "url": "https://presidencia.gva.es/es/govern-preautonomic",
+        "gobiernos": [
+            {
+                "titulo": "Octavo gobierno Preautonómico  (UCD) de 15.09.1981 a 11.08.1982",
+                "presidente": {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente y Conseller de Interior",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Luis Verdú López Sanz",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Amparo Cabanes Pecourt",
+                        "cargo": "Consellera de Educación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Segundo Bru Parra",
+                        "cargo": "Conseller de Economía, Comercio e Industria",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "José Antonio Bordils Ferrer",
+                        "cargo": "Conseller de Agricultura y Pesca. Cesa el 15/07/1982",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Salvador López Sanz",
+                        "cargo": "Conseller de Sanidad y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Ángel Luna González",
+                        "cargo": "Conseller de Trabajo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Jose Luis Sorribes Mur",
+                        "cargo": "Conseller adjunto a la Presidencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Gómez Chirivella",
+                        "cargo": "Conseller de Transporte y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    },
+                    {
+                        "nombre": "Jorge Navarro Canuto",
+                        "cargo": "Conseller de Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Séptimo gobierno Preautonómico  (UCD) de 15.06.1981 a 15.09.1981",
+                "presidente": {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Peris Soler",
+                        "cargo": "Conseller de Educación y Cultura"
+                    },
+                    {
+                        "nombre": "José Luis Sorribes Mur",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio y Agricultura"
+                    }
+                ]
+            },
+            {
+                "titulo": "Sexto gobierno Preautonómico (UCD) de 1.10.1980 a 15.06.1981",
+                "presidente": {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Peris Soler",
+                        "cargo": "Conseller de Educación y Cultura"
+                    },
+                    {
+                        "nombre": "José Luis Sorribes Mur",
+                        "cargo": "Conseller de Transportes y Bienestar Social, Obras Públicas y Urbanismo y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1980/10/01/pdf/1980_801516.pdf"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio y Agricultura"
+                    }
+                ]
+            },
+            {
+                "titulo": "Quinto gobierno Preautonómico  (UCD) de 17.12.1979 a 1.10.1980",
+                "presidente": {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Peris Soler",
+                        "cargo": "Conseller de Educación y Cultura"
+                    },
+                    {
+                        "nombre": "Antonio Espinosa Chapinal",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio y Agricultura"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cuarto gobierno Preautonómico  (PSPV-PSOE+UCD+PCPV-PCE) de 14.09.1979 a 17.12.1979",
+                "presidente": {
+                    "nombre": "Josep Lluís Albiñana Olmos",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Enrique Monsonís Domingo",
+                        "cargo": "Conseller de Economía y Hacienda, Interior y Trabajo, Obras Públicas y Urbanismo y Turismo"
+                    },
+                    {
+                        "nombre": "Francisco Armell Valero",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante"
+                    },
+                    {
+                        "nombre": "Salvador Miro San Juan",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante"
+                    },
+                    {
+                        "nombre": "Antonio Espinosa Chapinal",
+                        "cargo": "Conseller de Transportes y Bienestar Social"
+                    },
+                    {
+                        "nombre": "Luis Verdú López",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante"
+                    },
+                    {
+                        "nombre": "José Peris Soler",
+                        "cargo": "Conseller de Educación y Cultura y Sanidad y Seguridad Social"
+                    },
+                    {
+                        "nombre": "Juan Forés Escurra",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón"
+                    },
+                    {
+                        "nombre": "Antonio García Miralles",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "Abilio Lázaro Mengod",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio y Agricultura"
+                    },
+                    {
+                        "nombre": "Julián Sanmillán Rius",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón"
+                    },
+                    {
+                        "nombre": "José Beviá Pastor",
+                        "cargo": "Conseller sin cartera"
+                    },
+                    {
+                        "nombre": "Manuel Girona Rubio",
+                        "cargo": "Conseller por la Diputación Provincial de Valencia"
+                    },
+                    {
+                        "nombre": "Antonio José Tirado Jiménez",
+                        "cargo": "Conseller sin cartera"
+                    },
+                    {
+                        "nombre": "Vicente Gómez Chirivella",
+                        "cargo": "Conseller por la Diputación Provincial de Valencia"
+                    },
+                    {
+                        "nombre": "Adela Pla Pastor",
+                        "cargo": "Conseller sin cartera"
+                    },
+                    {
+                        "nombre": "Benjamín March Civera",
+                        "cargo": "Conseller por las Diputación Provincial de Valencia"
+                    },
+                    {
+                        "nombre": "José Galán Peláez",
+                        "cargo": "Conseller sin cartera"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tercer gobierno Preautonómico  (PSPV-PSOE+UCD+PCPV-PCE) de 30.06.1979 a 14.09.1979",
+                "presidente": {
+                    "nombre": "Josep Lluís Albiñana Olmos",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Enrique Monsonís Domingo",
+                        "cargo": "Conseller de Economía y Hacienda, Interior y Trabajo, Obras Públicas y Urbanismo y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                    },
+                    {
+                        "nombre": "Francisco Armell Valero",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Salvador Miro San Juan",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Antonio Espinosa Chapinal",
+                        "cargo": "Conseller de Transportes y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                    },
+                    {
+                        "nombre": "Luis Verdú López",
+                        "cargo": "Conseller por la Diputación Provincial de Alicante",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "José Peris Soler",
+                        "cargo": "Conseller de Educación y Cultura y Sanidad y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Juan Forés Escurra",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Antonio García Miralles",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                    },
+                    {
+                        "nombre": "Abilio Lázaro Mengod",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio y Agricultura",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                    },
+                    {
+                        "nombre": "Julián Sanmillán Rius",
+                        "cargo": "Conseller por la Diputación Provincial de Castellón",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "José Beviá Pastor",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Girona Rubio",
+                        "cargo": "Conseller por la Diputación Provincial de Valencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Antonio García Miralles",
+                        "cargo": "Conseller sin cartera"
+                    },
+                    {
+                        "nombre": "Vicente Gómez Chirivella",
+                        "cargo": "Conseller por la Diputación Provincial de Valencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "José Galán Peláez",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Adela Pla Pastor",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    },
+                    {
+                        "nombre": "Benjamín March Civera",
+                        "cargo": "Conseller por las Diputación Provincial de Valencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno Preautonómico (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) de 17.06.1978 a 30.06.1979",
+                "presidente": {
+                    "nombre": "Josep Lluís Albiñana Olmos",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Javier Aguirre de la Hoz",
+                        "cargo": "Conseller de Economía y Hacienda"
+                    },
+                    {
+                        "nombre": "Alberto Jarabo Payá",
+                        "cargo": "Conseller de Turismo"
+                    },
+                    {
+                        "nombre": "Fernando Vidal Gil",
+                        "cargo": "Conseller de Interior"
+                    },
+                    {
+                        "nombre": "Manuel Sánchez Ayuso",
+                        "cargo": "Conseller de Sanidad y Seguridad Social"
+                    },
+                    {
+                        "nombre": "José Luis Barceló Rodríguez",
+                        "cargo": "Conseller de Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "José Beviá Pastor",
+                        "cargo": "Conseller de Cultura"
+                    },
+                    {
+                        "nombre": "Antonio García Miralles",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "José Galán Peláez",
+                        "cargo": "Conseller de Transportes y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/11/01/pdf/1978_801160.pdf"
+                    },
+                    {
+                        "nombre": "Joan Lerma i Blasco",
+                        "cargo": "Conseller de Trabajo"
+                    },
+                    {
+                        "nombre": "Bernardo Heredia Gutiérrez",
+                        "cargo": "Conseller sin cartera Alicante"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio"
+                    },
+                    {
+                        "nombre": "Luis Ramón Martínez Pérez",
+                        "cargo": "Conseller sin cartera Castellón"
+                    },
+                    {
+                        "nombre": "Enrique Monsonís Domingo",
+                        "cargo": "Conseller de Agricultura"
+                    },
+                    {
+                        "nombre": "Ignacio Docavo Alberti",
+                        "cargo": "Conseller sin cartera Valencia"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno Preautonómico (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) de 10.04.1978 a 17.06.1978",
+                "presidente": {
+                    "nombre": "Josep Lluís Albiñana Olmos",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Javier Aguirre de la Hoz",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                    },
+                    {
+                        "nombre": "Alberto Jarabo Payá",
+                        "cargo": "Conseller de Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Vidal Gil",
+                        "cargo": "Conseller de Interior",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Sánchez Ayuso",
+                        "cargo": "Conseller de Sanidad y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "José Luis Barceló Rodríguez",
+                        "cargo": "Conseller de Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                    },
+                    {
+                        "nombre": "José Beviá Pastor",
+                        "cargo": "Conseller de Cultura",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "Antonio García Miralles",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                    },
+                    {
+                        "nombre": "Emèrit Bono i Martínez",
+                        "cargo": "Conseller de Transportes y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "Joan Lerma i Blasco",
+                        "cargo": "Conseller de Trabajo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "Bernardo Heredia Gutiérrez",
+                        "cargo": "Conseller sin cartera Alicante"
+                    },
+                    {
+                        "nombre": "Leonardo Ramón Sales",
+                        "cargo": "Conseller de Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                    },
+                    {
+                        "nombre": "Luis Ramón Martínez Pérez",
+                        "cargo": "Conseller sin cartera Castellón"
+                    },
+                    {
+                        "nombre": "Enrique Monsonís Domingo",
+                        "cargo": "Conseller de Agricultura",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                    },
+                    {
+                        "nombre": "Ignacio Docavo Alberti",
+                        "cargo": "Conseller sin cartera Valencia"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Gobierno de Transición",
+        "url": "https://presidencia.gva.es/es/govern-de-transicio",
+        "gobiernos": [
+            {
+                "titulo": "Segundo gobierno de Transición (PSPV-PSOE+UCD+PCPV-PCE) de 01.12.1982 a 28.06.1983",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801993.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Tarancón Fandos",
+                        "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801990.pdf"
+                    },
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801986.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Gómez Chirivella",
+                        "cargo": "Conseller de Transportes y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801992.pdf"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801988.pdf"
+                    },
+                    {
+                        "nombre": "Enrique Monsonís Domingo",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                    },
+                    {
+                        "nombre": "Ángel Luna González",
+                        "cargo": "Conseller de Sanidad, Trabajo y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801989.pdf"
+                    },
+                    {
+                        "nombre": "Jorge Navarro Canuto",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                    },
+                    {
+                        "nombre": "Segundo Bru Parra",
+                        "cargo": "Conseller de Comercio e Industria",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801991.pdf"
+                    },
+                    {
+                        "nombre": "José Luis Sorribes Mur",
+                        "cargo": "Conseller sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                    },
+                    {
+                        "nombre": "Luis Verdú López",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801987.pdf"
+                    },
+                    {
+                        "nombre": "Amparo Cabanes Pecourt",
+                        "cargo": "Consellera sin cartera",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno de Transición (UCD+PSPV-PSOE+PCPV-PCE) de 11.08.1982 a 30.11.1982",
+                "presidente": {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente y Conseller de Interior"
+                    },
+                    {
+                        "nombre": "Luis Verdú López Sanz",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura"
+                    },
+                    {
+                        "nombre": "Ángel Luna González.",
+                        "cargo": "Conseller de Trabajo"
+                    },
+                    {
+                        "nombre": "Segundo Bru Parra",
+                        "cargo": "Conseller de Economía, Comercio e Industria"
+                    },
+                    {
+                        "nombre": "Amparo Cabanes Pecourt",
+                        "cargo": "Consellera de Educación"
+                    },
+                    {
+                        "nombre": "José Luis Sorribes Mur",
+                        "cargo": "Conseller adjunto a la Presidencia"
+                    },
+                    {
+                        "nombre": "Vicente Gómez Chirivella",
+                        "cargo": "Conseller de Transporte y Turismo"
+                    },
+                    {
+                        "nombre": "Jorge Navarro Canuto",
+                        "cargo": "Conseller de Hacienda"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "I Legislatura",
+        "url": "https://presidencia.gva.es/es/i-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PSPV-PSOE) de 23.02.1987 a 27.07.1987",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Administración Pública"
+                    },
+                    {
+                        "nombre": "Miguel Doménech Pastor",
+                        "cargo": "Conseller de Trabajo y Seguridad Social"
+                    },
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda"
+                    },
+                    {
+                        "nombre": "Andrés García Reche",
+                        "cargo": "Conseller de Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/02/23/pdf/1987_808211.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PSPV-PSOE) de 24.07.1985 a 22.02.1987",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804707.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804705.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Doménech Pastor",
+                        "cargo": "Conseller de Trabajo y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/24/pdf/1985_804707.pdf"
+                    },
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda"
+                    },
+                    {
+                        "nombre": "Segundo Bru Parra",
+                        "cargo": "Conseller de Industria, Comercio y Turismo"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Obras Públicas y Urbanismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1985/07/25/pdf/1985_804711.pdf"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PSPV-PSOE) de 28.06.1983 a 23.07.1985",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Felipe Guardiola Sellés",
+                        "cargo": "Vicepresidente y Conseller de Gobernación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/29/pdf/1983_802313.pdf"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de la Presidencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Ángel Millana Sansaturio",
+                        "cargo": "Conseller de Sanidad, Seguridad Social y Trabajo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Segundo Bru Parra",
+                        "cargo": "Conseller de Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Llombart Rosa",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1983/06/28/pdf/1983_802307.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "II Legislatura",
+        "url": "https://presidencia.gva.es/es/ii-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PSPV-PSOE) de 30.12.1989 a 16.07.1991",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo"
+                    },
+                    {
+                        "nombre": "Emèrit Bono i Martínez",
+                        "cargo": "Conseller de Administración Pública"
+                    },
+                    {
+                        "nombre": "Miguel Doménech Pastor",
+                        "cargo": "Conseller de Trabajo y Seguridad Social"
+                    },
+                    {
+                        "nombre": "Eugenio Burriel de Orueta",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1989/12/30/pdf/1989_816108.pdf"
+                    },
+                    {
+                        "nombre": "Andrés García Reche",
+                        "cargo": "Conseller de Industria, Comercio y Turismo"
+                    },
+                    {
+                        "nombre": "Antoni Escarré Esteve",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PSPV-PSOE) de 19.09.1989 a 29.12.1989",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo"
+                    },
+                    {
+                        "nombre": "Emèrit Bono i Martínez",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1989/09/19/pdf/1989_815116.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Doménech Pastor",
+                        "cargo": "Conseller de Trabajo y Seguridad Social"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                    },
+                    {
+                        "nombre": "Andrés García Reche",
+                        "cargo": "Conseller de Industria, Comercio y Turismo"
+                    },
+                    {
+                        "nombre": "Antoni Escarré Esteve",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PSPV-PSOE) de 27.07.1987 a 18.09.1989",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Azagra Ros",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Doménech Pastor",
+                        "cargo": "Conseller de Trabajo y Seguridad Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Andrés García Reche",
+                        "cargo": "Conseller de Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Ciprià Císcar i Casaban",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1987/07/27/pdf/1987_809323.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "III Legislatura",
+        "url": "https://presidencia.gva.es/es/iii-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Segundo gobierno (PSPV-PSOE) de 12.07.1993 a 6.07.1995",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Aurelio Martínez Estévez",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828622.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo"
+                    },
+                    {
+                        "nombre": "Luis Berenguer Fuster",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828623.pdf"
+                    },
+                    {
+                        "nombre": "Francisco Javier Sanahuja Sanchís",
+                        "cargo": "Conseller de Trabajo y Asuntos Sociales",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828626.pdf"
+                    },
+                    {
+                        "nombre": "Eugenio Burriel de Orueta",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transporte"
+                    },
+                    {
+                        "nombre": "Martín Sevilla Jiménez",
+                        "cargo": "Conseller de Industria, Comercio y Turismo"
+                    },
+                    {
+                        "nombre": "Pilar Pedraza Martínez",
+                        "cargo": "Consellera de Cultura",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828624.pdf"
+                    },
+                    {
+                        "nombre": "Josep María Coll Comín",
+                        "cargo": "Conseller de Agricultura y Pesca",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828627.pdf"
+                    },
+                    {
+                        "nombre": "Joan Romero González",
+                        "cargo": "Conseller de Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/12/pdf/1993_828625.pdf"
+                    },
+                    {
+                        "nombre": "Emèrit Bono i Martínez",
+                        "cargo": "Conseller de Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1993/07/13/pdf/1993_828632.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PSPV-PSOE) de 16.07.1991 a 11.07.1993",
+                "presidente": {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Antonio Birlanga Casanova",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Martín Sevilla Jiménez",
+                        "cargo": "Conseller de Trabajo y Asuntos Sociales",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Emèrit Bono i Martínez",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Andrés García Reche",
+                        "cargo": "Conseller de Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Eugenio Burriel de Orueta",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Luis Font de Mora Montesinos",
+                        "cargo": "Conseller de Agricultura y Pesca",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Andreu López Blasco",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Antoni Escarré Esteve",
+                        "cargo": "Conseller de Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Colomer Sala",
+                        "cargo": "Conseller de Sanidad y Consumo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1991/07/16/pdf/1991_822101.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "IV Legislatura",
+        "url": "https://presidencia.gva.es/es/iv-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Sexto gobierno (PP+UV) de 23.01.1999 a 23.07.1999",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro (PP-CV)",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Presidencia"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Empleo, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía, Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Salvador Manuel Ortells Rosell",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                    },
+                    {
+                        "nombre": "José Manuel Castellá Almiñana",
+                        "cargo": "Conseller de Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Manuel Tarancón Fandos",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/01/23/pdf/1999_6.pdf"
+                    },
+                    {
+                        "nombre": "Marcela Miró Pérez",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Quinto gobierno (PP+UV) de 15.01.1999 a 22.01.1999",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro (PP-CV)",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Presidencia"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Empleo, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía, Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Salvador Manuel Ortells Rosell",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/01/15/pdf/1999_M323.pdf"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                    },
+                    {
+                        "nombre": "José Manuel Castellá Almiñana",
+                        "cargo": "Conseller de Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Francisco Enrique Camps Ortiz",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "Marcela Miró Pérez",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cuarto gobierno (PP+UV) de 16.03.1998 a 14.01.1999",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro (PP-CV)",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Presidencia"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Empleo, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía, Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1998/03/16/pdf/1998_2054.pdf"
+                    },
+                    {
+                        "nombre": "José Manuel Castellá Almiñana",
+                        "cargo": "Conseller de Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Francisco Enrique Camps Ortiz",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "Marcela Miró Pérez",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tercer gobierno (PP+UV) de 24.02.1997 a 15.03.1998",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro (PP-CV)",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Presidencia"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Empleo, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía, Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "Luis Fernando Cartagena Travesedo",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1998/03/16/pdf/1998_2054.pdf"
+                    },
+                    {
+                        "nombre": "José Manuel Castellá Almiñana",
+                        "cargo": "Conseller de Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Francisco Enrique Camps Ortiz",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia"
+                    },
+                    {
+                        "nombre": "Marcela Miró Pérez",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP+UV) de 07.05.1996 a 24.02.1997",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad y Consumo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "José Sanmartín Esplugues",
+                        "cargo": "Conseller de Trabajo y Asuntos Sociales"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "Luis Fernando Cartagena Travesedo",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura y Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    },
+                    {
+                        "nombre": "Marcela Miró Pérez",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1997/02/24/pdf/1997_850817.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP+UV) de 06.07.1995 a 06.05.1996",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "Joaquín Farnós Gauchía",
+                        "cargo": "Conseller de Sanidad y Consumo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Conseller de Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "José Sanmartín Esplugues",
+                        "cargo": "Conseller de Trabajo y Asuntos Sociales",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "Diego Such Pérez",
+                        "cargo": "Conseller de Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "Luis Fernando Cartagena Travesedo",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura y Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Villalonga Campos",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1995/07/06/pdf/1995_835293.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "V Legislatura",
+        "url": "https://presidencia.gva.es/es/v-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PP) de 25.07.2002 a 21.06.2003",
+                "presidente": {
+                    "nombre": "José Luis Olivas Martínez",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Vicepresidente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec4.pdf"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Modrego Caballero",
+                        "cargo": "Conseller de Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Carlos González Cepeda",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Tarancón Fandos",
+                        "cargo": "Conseller de Cultura y Educación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Alicia de Miguel García",
+                        "cargo": "Consellera Portavoz del Gobierno",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Vicente Castelló Boronat",
+                        "cargo": "Conseller de Industria, Comercio y Energia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP) de 22.5.2000 a 25.7.2002",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Vicepresidente 1º"
+                    },
+                    {
+                        "nombre": "Fernando Vicente Castelló Boronat",
+                        "cargo": "Conseller de Industria y Comercio de 22/05/2001 a 30/10/2001"
+                    },
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Vicepresidente 2º"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo"
+                    },
+                    {
+                        "nombre": "Fernando Modrego Caballero",
+                        "cargo": "Conseller de Medio Ambiente"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                    },
+                    {
+                        "nombre": "Carlos González Cepeda",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas"
+                    },
+                    {
+                        "nombre": "Manuel Tarancón Fandos",
+                        "cargo": "Conseller de Cultura y Educación"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Bienestar Social"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Alicia de Miguel García",
+                        "cargo": "Consellera Portavoz del Gobierno"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP) de 23.07.1999 a 22.05.2000",
+                "presidente": {
+                    "nombre": "Eduardo Zaplana Hernández-Soro",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Luis Olivas Martínez",
+                        "cargo": "Vicepresidente primero",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Vicente Castelló Boronat",
+                        "cargo": "Conseller de Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "José Joaquín Ripoll Serrano",
+                        "cargo": "Vicepresidente segundo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Economía y Hacienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Fernando Modrego Caballero",
+                        "cargo": "Conseller de Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Tarancón Fandos",
+                        "cargo": "Conseller de Cultura, Educación y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "José Emilio Cervera Cardona",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    },
+                    {
+                        "nombre": "María Carmen Mas Rubio",
+                        "cargo": "Consellera de Bienestar Social hasta 17/05/2000",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "VI Legislatura",
+        "url": "https://presidencia.gva.es/es/vi-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PP) de 30.05.2006 a 29.06.2007",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Víctor Campos Guinot",
+                        "cargo": "Vicepresidente"
+                    },
+                    {
+                        "nombre": "Juan Gabriel Cotino Ferrer",
+                        "cargo": "Conseller de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo"
+                    },
+                    {
+                        "nombre": "Esteban González Pons",
+                        "cargo": "Conseller de Territorio y Vivienda"
+                    },
+                    {
+                        "nombre": "Miguel Peralta Viñes",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas"
+                    },
+                    {
+                        "nombre": "Alicia de Miguel García",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Infraestructuras y Transporte"
+                    },
+                    {
+                        "nombre": "María Milagrosa Martínez Navarro",
+                        "cargo": "Consellera de Turismo"
+                    },
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Cultura, Educación y Deporte"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Relaciones Institucionales y Comunicación y Portavoz del Consell de la Generalitat (sin cartera)"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Gema Amor Pérez",
+                        "cargo": "Consellera de Cooperación y Participación (sin cartera)"
+                    },
+                    {
+                        "nombre": "Justo Nieto Nieto",
+                        "cargo": "Conseller de Empresa, Universidad y Ciencia"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP) de 27.08.2004 a 30.05.2006",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Víctor Campos Guinot",
+                        "cargo": "Vicepresidente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                    },
+                    {
+                        "nombre": "Juan Gabriel Cotino Ferrer",
+                        "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Territorio y Vivienda"
+                    },
+                    {
+                        "nombre": "Miguel Peralta Viñes",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas"
+                    },
+                    {
+                        "nombre": "Alicia de Miguel García",
+                        "cargo": "Consellera de Bienestar Social"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Infraestructuras y Transporte"
+                    },
+                    {
+                        "nombre": "María Milagrosa Martínez Navarro",
+                        "cargo": "Consellera de Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                    },
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Cultura, Educación y Deporte"
+                    },
+                    {
+                        "nombre": "Esteban González Pons",
+                        "cargo": "Conseller de Relaciones Institucionales y Comunicación y Portavoz del Consell de la Generalitat (sin cartera)"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Gema Amor Pérez",
+                        "cargo": "Consellera de Cooperación y Participación (sin cartera)"
+                    },
+                    {
+                        "nombre": "Justo Nieto Nieto",
+                        "cargo": "Conseller de Empresa, Universidad y Ciencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2004/08/27/pdf/2004_8895.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP) de 21.06.2003 a 27.08.2004",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Presidencia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Peralta Viñes",
+                        "cargo": "Conseller de Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Víctor Campos Guinot",
+                        "cargo": "Conseller de Justicia y Administraciones Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Gema Amor Pérez",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Infraestructuras y Transporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Territorio y Vivienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Esteban González Pons",
+                        "cargo": "Conseller de Cultura, Educación y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    },
+                    {
+                        "nombre": "Alicia de Miguel García",
+                        "cargo": "Consellera de Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2003/06/21/pdf/2003_7560.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "VII Legislatura",
+        "url": "https://presidencia.gva.es/es/vii-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PP) de 31.08.2009 a 22.06.2011",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Industria, Comercio e Innovación y Vicepresidente 1º",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Cervera Taulet",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º"
+                    },
+                    {
+                        "nombre": "Belén Juste Picón",
+                        "cargo": "Consellera de Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                    },
+                    {
+                        "nombre": "Juan Gabriel Cotino Ferrer",
+                        "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda y Vicepresidente 3º",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "Mario Flores Lanuza",
+                        "cargo": "Conseller de Infraestructuras y Transporte"
+                    },
+                    {
+                        "nombre": "Paula Sánchez de León",
+                        "cargo": "Consellera de Justicia y Administraciones Públicas"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación"
+                    },
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Educación"
+                    },
+                    {
+                        "nombre": "Angélica Such Ronda",
+                        "cargo": "Consellera de Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2009/08/29/pdf/2009_9777.pdf"
+                    },
+                    {
+                        "nombre": "Trinidad María Miró Mira",
+                        "cargo": "Consellera de Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Inmigración y Ciudadanía"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP) de 19.09.2008 a 31.08.2009",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Presidencia y Vicepresidente 1º"
+                    },
+                    {
+                        "nombre": "Belén Juste Picón",
+                        "cargo": "Consellera de Industria, Comercio e Innovación"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                    },
+                    {
+                        "nombre": "Juan Gabriel Cotino Ferrer",
+                        "cargo": "Conseller de Bienestar Social y Vicepresidente 3º"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda"
+                    },
+                    {
+                        "nombre": "Paula Sánchez de León",
+                        "cargo": "Consellera de Justicia y Administraciones Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2008/09/19/pdf/2008_10883.pdf"
+                    },
+                    {
+                        "nombre": "Mario Flores Lanuza",
+                        "cargo": "Conseller de Infraestructuras y Transporte"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación"
+                    },
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Educación"
+                    },
+                    {
+                        "nombre": "Angélica Such Ronda",
+                        "cargo": "Consellera de Turismo"
+                    },
+                    {
+                        "nombre": "Trinidad María Miró Mira",
+                        "cargo": "Consellera de Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Inmigración y Ciudadanía"
+                    },
+                    {
+                        "nombre": "Manuel Cervera Taulet",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP) de 29.06.2007 a 19.09.2008",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Vicente Rambla Momplet",
+                        "cargo": "Conseller de Presidencia y Vicepresidente 1º",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Belén Juste Picón",
+                        "cargo": "Consellera de Industria, Comercio e Innovación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Gerardo Camps Devesa",
+                        "cargo": "Conseller de Economía, Hacienda y Empleo y Vicepresidente 2º",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Juan Gabriel Cotino Ferrer",
+                        "cargo": "Conseller de Bienestar Social y Vicepresidente 3º",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "José Ramón García Antón",
+                        "cargo": "Conseller de Medio Ambiente, Agua, Urbanismo y Vivienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Mario Flores Lanuza",
+                        "cargo": "Conseller de Infraestructuras y Transporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Fernando de Rosa Torner",
+                        "cargo": "Consellera de Justicia y Administraciones Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Alejandro Font de Mora Turón",
+                        "cargo": "Conseller de Educación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Angélica Such Ronda",
+                        "cargo": "Consellera de Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Trinidad María Miró Mira",
+                        "cargo": "Consellera de Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Blasco Castany",
+                        "cargo": "Conseller de Inmigración y Ciudadanía",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Cervera Taulet",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2007/06/29/pdf/2007_8749.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "VIII Legislatura",
+        "url": "https://presidencia.gva.es/es/viii-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Sexto gobierno (PP) desde 12.06.2014 al 26.06.2015",
+                "presidente": {
+                    "nombre": "Alberto Fabra Part",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Vicepresidente y Portavoz del Consell (hasta 29/05/2014) y Conseller de Presidencia y"
+                    },
+                    {
+                        "nombre": "Manuel Llombart Fuertes",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Máximo Buch Torralva",
+                        "cargo": "Conseller de Economía, Industria, Turismo y Empleo"
+                    },
+                    {
+                        "nombre": "Asunción Sánchez Zaplana",
+                        "cargo": "Consellera de Bienestar Social (hasta 12/06/2015)"
+                    },
+                    {
+                        "nombre": "Juan Carlos Moragues Ferrer",
+                        "cargo": "Conseller de Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Luis Santamaría Ruiz",
+                        "cargo": "Conseller de Gobernación y Justicia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2014/06/13/pdf/2014_5485.pdf"
+                    },
+                    {
+                        "nombre": "Mª José Català Verdet",
+                        "cargo": "Portavoz del Consell (desde 29/05/2014) y Consellera de Educación, Cultura y Deporte"
+                    }
+                ]
+            },
+            {
+                "titulo": "Quinto gobierno (PP) desde 7.12.2012 al 12.06.2014",
+                "presidente": {
+                    "nombre": "Alberto Fabra Part",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Vicepresidente y Portavoz del Consell (hasta 29/05/2014) y Conseller de Presidencia y",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Llombart Fuertes",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Máximo Buch Torralva",
+                        "cargo": "Conseller de Economía, Industria, Turismo y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Asunción Sánchez Zaplana",
+                        "cargo": "Consellera de Bienestar Social (hasta 12/06/2015)",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Juan Carlos Moragues Ferrer",
+                        "cargo": "Conseller de Hacienda y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación y Justicia",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    },
+                    {
+                        "nombre": "Mª José Català Verdet",
+                        "cargo": "Portavoz del Consell (desde 29/05/2014) y Consellera de Educación, Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cuarto gobierno (PP) de 20.01.2012 a 7.12.2012",
+                "presidente": {
+                    "nombre": "Alberto Fabra Part",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Conseller de Presidencia y Vicepresidente y Portavoz del Consell"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Máximo Buch Torralva",
+                        "cargo": "Conseller de Economía, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "Jorge Cabré Rico",
+                        "cargo": "Conseller de Justicia y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/23/pdf/2012_621.pdf"
+                    },
+                    {
+                        "nombre": "José Manuel Vela Bargues",
+                        "cargo": "Conseller de Hacienda y Administración Pública. Cesa el 30/11/2012"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua"
+                    },
+                    {
+                        "nombre": "Dolores Johnson Sastre",
+                        "cargo": "Consellera de Turismo, Cultura, Deporte"
+                    },
+                    {
+                        "nombre": "Mª José Català Verdet",
+                        "cargo": "Consellera de Educación, Formación y Empleo"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación"
+                    },
+                    {
+                        "nombre": "Luis Rosado Bretón",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tercer gobierno (PP) de 30.12.2011 a 20.01.2012",
+                "presidente": {
+                    "nombre": "Alberto Fabra Part",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Conseller de Presidencia y Vicepresidente y Portavoz del Consell",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/02/pdf/2011_13277.pdf"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                    },
+                    {
+                        "nombre": "Enrique Verdeguer Puig",
+                        "cargo": "Conseller de Economía, Industria y Comercio"
+                    },
+                    {
+                        "nombre": "Jorge Cabré Rico",
+                        "cargo": "Conseller de Justicia y Bienestar Social"
+                    },
+                    {
+                        "nombre": "José Manuel Vela Bargues",
+                        "cargo": "Conseller de Hacienda y Administración Pública"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua"
+                    },
+                    {
+                        "nombre": "Dolores Johnson Sastre",
+                        "cargo": "Consellera de Turismo, Cultura, Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/02/pdf/2011_13277.pdf"
+                    },
+                    {
+                        "nombre": "Mª José Català Verdet",
+                        "cargo": "Consellera de Educación, Formación y Empleo"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación"
+                    },
+                    {
+                        "nombre": "Luis Rosado Bretón",
+                        "cargo": "Conseller de Sanidad"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP) de 28.07.2011 a 30.12.2011",
+                "presidente": {
+                    "nombre": "Alberto Fabra Part",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Paula Sánchez de León Guardiola",
+                        "cargo": "Consellera de Presidencia y Vicepresidenta del Consell",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Enrique Verdeguer Puig",
+                        "cargo": "Conseller de Economía, Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Jorge Cabré Rico",
+                        "cargo": "Conseller de Justicia y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "José Manuel Vela Bargues",
+                        "cargo": "Conseller de Hacienda y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Dolores Johnson Sastre",
+                        "cargo": "Consellera de Turismo, Cultura, Deporte y Portavoz del Consell",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Consellera de Educación, Formación y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    },
+                    {
+                        "nombre": "Luis Rosado Bretón",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP) de 22.06.2011 a 28.07.2011",
+                "presidente": {
+                    "nombre": "Francisco Enrique Camps Ortiz",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Paula Sánchez de León Guardiola",
+                        "cargo": "Consellera de Presidencia y Vicepresidenta del Consell",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Isabel Bonig Trigueros",
+                        "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Enrique Verdeguer Puig",
+                        "cargo": "Conseller de Economía, Industria y Comercio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Jorge Cabré Rico",
+                        "cargo": "Conseller de Justicia y Bienestar Social",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "José Manuel Vela Bargues",
+                        "cargo": "Conseller de Hacienda y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Maritina Hernández Miñana",
+                        "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Dolores Johnson Sastre",
+                        "cargo": "Consellera de Turismo, Cultura, Deporte y Portavoz del Consell",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "José Ciscar Bolufer",
+                        "cargo": "Consellera de Educación, Formación y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Serafín Castellano Gómez",
+                        "cargo": "Conseller de Gobernación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    },
+                    {
+                        "nombre": "Luis Rosado Bretón",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "IX Legislatura",
+        "url": "https://presidencia.gva.es/es/ix-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Segundo gobierno (PSOE+Compromís) de 08.06.2018 a 16.06.2019",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Mónica Oltra Jarque",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y Consellera de Igualdad y Políticas Inclusivas"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Hacienda y Modelo Económico"
+                    },
+                    {
+                        "nombre": "Elena Cebrián Calvo",
+                        "cargo": "Consellera de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Administración Pública, Reformas Democráticas y Libertades Públicas"
+                    },
+                    {
+                        "nombre": "María José Salvador Rubert",
+                        "cargo": "Consellera de Vivienda, Obras Públicas y Vertebración del Territorio. Cesa el día 16/05/2019"
+                    },
+                    {
+                        "nombre": "Vicent Marzà Ibáñez",
+                        "cargo": "Conseller de Educación, Investigación, Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Manuel Alcaraz Ramos",
+                        "cargo": "Conseller de Transparencia, Responsabilidad Social, Participación y Cooperación"
+                    },
+                    {
+                        "nombre": "Ana Barceló Chico",
+                        "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2018/06/07/pdf/2018_5712.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PSOE+Compromís) de 29.06.2015 a 07.06.2018",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Mónica Oltra Jarque",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y Consellera de Igualdad y Políticas Inclusivas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Hacienda y Modelo Económico",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Elena Cebrián Calvo",
+                        "cargo": "Consellera de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Administración Pública, Reformas Democráticas y Libertades Públicas",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "María José Salvador Rubert",
+                        "cargo": "Consellera de Vivienda, Obras Públicas y Vertebración del Territorio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Marzà Ibáñez",
+                        "cargo": "Conseller de Educación, Investigación, Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Manuel Alcaraz Ramos",
+                        "cargo": "Conseller de Transparencia, Responsabilidad Social, Participación y Cooperación",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    },
+                    {
+                        "nombre": "Carmen Montón Giménez",
+                        "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "X Legislatura",
+        "url": "https://presidencia.gva.es/es/x-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Quinto gobierno (PSOE+Compromís+Unides Podem-EU) de 26.10.2022 a 16.07.2023",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Aitana Joana Mas i Mas",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                    },
+                    {
+                        "nombre": "Héctor Illueca Ballester",
+                        "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática"
+                    },
+                    {
+                        "nombre": "Arcadi España García",
+                        "cargo": "Conseller de Hacienda y Modelo Económico"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Interior y Administración Pública (cese 07.07.2023)"
+                    },
+                    {
+                        "nombre": "Raquel Tamarit Iranzo",
+                        "cargo": "Conseller de Educación, Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Miguel Mínguez Pérez",
+                        "cargo": "Conseller de Sanidad Universal y Salud Pública"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                    },
+                    {
+                        "nombre": "Isaura Navarro Casillas",
+                        "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/10/26/pdf/2022_9883.pdf"
+                    },
+                    {
+                        "nombre": "Rebeca Mariola Torró Soler",
+                        "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad"
+                    },
+                    {
+                        "nombre": "Josefina Antonia Bueno Alonso",
+                        "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                    },
+                    {
+                        "nombre": "Rosa Pérez Garijo",
+                        "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                    }
+                ]
+            },
+            {
+                "titulo": "Cuarto gobierno (PSOE+Compromís+Unides Podem-EU) de 29.06.2022-26.10.2022",
+                "fecha_inicio": "29.06.2022",
+                "fecha_fin": "26.10.2022",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Aitana Joana Mas i Mas",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/06/29/pdf/2022_6129.pdf"
+                    },
+                    {
+                        "nombre": "Héctor Illueca Ballester",
+                        "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática"
+                    },
+                    {
+                        "nombre": "Arcadi España García",
+                        "cargo": "Conseller de Hacienda y Modelo Económico"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                    },
+                    {
+                        "nombre": "Raquel Tamarit Iranzo",
+                        "cargo": "Conseller de Educación, Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Miguel Mínguez Pérez",
+                        "cargo": "Conseller de Sanidad Universal y Salud Pública"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                    },
+                    {
+                        "nombre": "Mireia Mollà Herrera",
+                        "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                    },
+                    {
+                        "nombre": "Rebeca Mariola Torró Soler",
+                        "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad"
+                    },
+                    {
+                        "nombre": "Josefina Antonia Bueno Alonso",
+                        "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                    },
+                    {
+                        "nombre": "Rosa Pérez Garijo",
+                        "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                    }
+                ]
+            },
+            {
+                "titulo": "Tercer gobierno (PSOE+Compromís+Unides Podem-EU) de 14.05.2022-29.06.2022",
+                "fecha_inicio": "14.05.2022",
+                "fecha_fin": "29.06.2022",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Mónica Oltra Jarque",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                    },
+                    {
+                        "nombre": "Héctor Illueca Ballester",
+                        "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2021/09/10/pdf/2021_9121.pdf"
+                    },
+                    {
+                        "nombre": "Arcadi España García",
+                        "cargo": "Conseller de Hacienda y Modelo Económico",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4257.pdf"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                    },
+                    {
+                        "nombre": "Raquel Tamarit Iranzo",
+                        "cargo": "Conseller de Educación, Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4258.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Mínguez Pérez",
+                        "cargo": "Conseller de Sanidad Universal y Salud Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4259.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                    },
+                    {
+                        "nombre": "Mireia Mollà Herrera",
+                        "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                    },
+                    {
+                        "nombre": "Rebeca Mariola Torró Soler",
+                        "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4260.pdf"
+                    },
+                    {
+                        "nombre": "Josefina Antonia Bueno Alonso",
+                        "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4261.pdf"
+                    },
+                    {
+                        "nombre": "Rosa Pérez Garijo",
+                        "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PSOE+Compromís+Unides Podem-EU) de 10.09.2021-14.05.2022",
+                "fecha_inicio": "10.09.2021",
+                "fecha_fin": "14.05.2022",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Mónica Oltra Jarque",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                    },
+                    {
+                        "nombre": "Héctor Illueca Ballester",
+                        "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2021/09/10/pdf/2021_9121.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Hacienda y Modelo Económico"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                    },
+                    {
+                        "nombre": "Vicent Marzà Ibáñez",
+                        "cargo": "Conseller de Educación, Cultura y Deporte"
+                    },
+                    {
+                        "nombre": "Ana Barceló Chico",
+                        "cargo": "Consellera de Sanidad Universal y Salud Pública"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                    },
+                    {
+                        "nombre": "Mireia Mollà Herrera",
+                        "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                    },
+                    {
+                        "nombre": "Arcadi España García",
+                        "cargo": "Conseller de Política Territorial, Obras Públicas y Movilidad"
+                    },
+                    {
+                        "nombre": "Carolina Pascual Villalobos",
+                        "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                    },
+                    {
+                        "nombre": "Rosa Pérez Garijo",
+                        "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PSOE+Compromís+Unides Podem-EU) de 17.06.2019 a 10.09.2021",
+                "presidente": {
+                    "nombre": "Ximo Puig i Ferrer",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Mónica Oltra Jarque",
+                        "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Rubén Martínez Dalmau",
+                        "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Soler i Marco",
+                        "cargo": "Conseller de Hacienda y Modelo Económico",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Gabriela Bravo Sanestanislao",
+                        "cargo": "Consellera de Justicia, Interior y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Vicent Marzà Ibáñez",
+                        "cargo": "Conseller de Educación, Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Ana Barceló Chico",
+                        "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Rafael Climent González",
+                        "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Mireia Mollà Herrera",
+                        "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climética y Transición Ecológica",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Arcadi España García",
+                        "cargo": "Conseller de Política Territorial, Obras Públicas y Movilidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Carolina Pascual Villalobos",
+                        "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    },
+                    {
+                        "nombre": "Rosa Pérez Garijo",
+                        "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "XI Legislatura",
+        "url": "https://presidencia.gva.es/es/xi-legislatura",
+        "gobiernos": [
+            {
+                "titulo": "Tercer gobierno (PP) de 23.11.2024",
+                "presidente": {
+                    "nombre": "Carlos Mazón Guixot",
+                    "cargo": "President"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Susana Camarero Benítez",
+                        "cargo": "Vicepresidenta primera i consellera de Servicios Sociales, Igualdad y Vivienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                    },
+                    {
+                        "nombre": "Francisco José Gan Pampols",
+                        "cargo": "Vicepresidente segundo y conseller para la Recuperación Económica y Social de la Comunitat Valenciana",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                    },
+                    {
+                        "nombre": "Ruth Merino Peña",
+                        "cargo": "Consellera de Hacienda y Economía",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                    },
+                    {
+                        "nombre": "Marciano Gómez Gómez",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Nuria Martínez Sanchis",
+                        "cargo": "Conseller de Justicia y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                    },
+                    {
+                        "nombre": "Juan Carlos Valderrama Zurián",
+                        "cargo": "Conseller de Emergencias e Interior",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_va.pdf"
+                    },
+                    {
+                        "nombre": "José Antonio Rovira Jover",
+                        "cargo": "Conseller de Educación, Cultura, Universidades y Empleo"
+                    },
+                    {
+                        "nombre": "Miguel Barrachina Ros",
+                        "cargo": "Conseller de Agricultura, Agua, Ganadería, y Pesca"
+                    },
+                    {
+                        "nombre": "Vicente Martínez Mus",
+                        "cargo": "Conseller de Medio Ambiente, Infraestructuras y Territorio"
+                    },
+                    {
+                        "nombre": "María Ángela Cano García",
+                        "cargo": "Consellera de Innovación, Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf"
+                    }
+                ]
+            },
+            {
+                "titulo": "Segundo gobierno (PP) de 12.07.2024 - 22.11.2024",
+                "presidente": {
+                    "nombre": "Carlos Mazón Guixot",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Susana Camarero Benítez",
+                        "cargo": "Vicepresidenta  y consellera de Servicios Sociales, Igualdad y Vivienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                    },
+                    {
+                        "nombre": "Ruth Merino Peña",
+                        "cargo": "Consellera de Hacienda, Economía y Administración Pública"
+                    },
+                    {
+                        "nombre": "Salomé Pradas Ten",
+                        "cargo": "Consellera de Justicia e Interior",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                    },
+                    {
+                        "nombre": "Marciano Gómez Gómez",
+                        "cargo": "Conseller de Sanidad"
+                    },
+                    {
+                        "nombre": "Jose Antonio Rovira Jover",
+                        "cargo": "Conseller de Educación, Cultura, Universidades y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                    },
+                    {
+                        "nombre": "Miguel Barrachina Ros",
+                        "cargo": "Conseller de Agricultura, Agua, Ganadería y Pesca",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2024/07/12/pdf/2024_7011_es.pdf"
+                    },
+                    {
+                        "nombre": "Vicente Martínez Mus",
+                        "cargo": "Consellera de Medio Ambiente, Infraestructuras y Territorio",
+                        "enlace_nombramiento": "Agricultura, Agua, Ganadería y Pesca"
+                    },
+                    {
+                        "nombre": "Nuria Montes de Diego",
+                        "cargo": "Consellera de Innovación, Industria, Comercio y Turismo"
+                    }
+                ]
+            },
+            {
+                "titulo": "Primer gobierno (PP+VOX) de 17.07.2023 - 11.07.2024",
+                "presidente": {
+                    "nombre": "Carlos Mazón Guixot",
+                    "cargo": "Presidente"
+                },
+                "consejeros": [
+                    {
+                        "nombre": "Vicente José Barrera Simó",
+                        "cargo": "Vicepresidente primero y conseller de Cultura y Deporte",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Susana Camarero Benítez",
+                        "cargo": "Vicepresidenta segunda y consellera de Servicios Sociales, Igualdad y Vivienda",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Ruth Merino Peña",
+                        "cargo": "Consellera de Hacienda, Economía y Administración Pública",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Elisa María Núñez Sánchez",
+                        "cargo": "Consellera de Justicia e Interior",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Marciano Gómez Gómez",
+                        "cargo": "Conseller de Sanidad",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Jose Antonio Rovira Jover",
+                        "cargo": "Conseller de Educación, Universidades y Empleo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Jose Luis Aguirre Larrauri",
+                        "cargo": "Conseller de Agricultura, Ganadería y Pesca",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Salomé Pradas Ten",
+                        "cargo": "Consellera de Medio Ambiente, Agua, Infraestructuras y Territorio",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    },
+                    {
+                        "nombre": "Nuria Montes de Diego",
+                        "cargo": "Consellera de Innovación, Industria, Comercio y Turismo",
+                        "enlace_nombramiento": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+]

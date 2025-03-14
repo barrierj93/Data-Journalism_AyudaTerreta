@@ -1,0 +1,196 @@
+{
+    "nombre": "V Legislatura",
+    "url": "https://presidencia.gva.es/es/v-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Tercer gobierno (PP) de 25.07.2002 a 21.06.2003",
+            "presidente": {
+                "nombre": "José Luis Olivas Martínez",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Joaquín Ripoll Serrano",
+                    "cargo": "Vicepresidente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec4.pdf"
+                },
+                {
+                    "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Fernando Modrego Caballero",
+                    "cargo": "Conseller de Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Carlos González Cepeda",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Manuel Tarancón Fandos",
+                    "cargo": "Conseller de Cultura y Educación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Alicia de Miguel García",
+                    "cargo": "Consellera Portavoz del Gobierno",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                },
+                {
+                    "nombre": "Fernando Vicente Castelló Boronat",
+                    "cargo": "Conseller de Industria, Comercio y Energia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2002/07/25/pdf/2002_Dec5.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PP) de 22.5.2000 a 25.7.2002",
+            "presidente": {
+                "nombre": "Eduardo Zaplana Hernández-Soro",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Luis Olivas Martínez",
+                    "cargo": "Vicepresidente 1º"
+                },
+                {
+                    "nombre": "Fernando Vicente Castelló Boronat",
+                    "cargo": "Conseller de Industria y Comercio de 22/05/2001 a 30/10/2001"
+                },
+                {
+                    "nombre": "José Joaquín Ripoll Serrano",
+                    "cargo": "Vicepresidente 2º"
+                },
+                {
+                    "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Economía, Hacienda y Empleo"
+                },
+                {
+                    "nombre": "Fernando Modrego Caballero",
+                    "cargo": "Conseller de Medio Ambiente"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes"
+                },
+                {
+                    "nombre": "Carlos González Cepeda",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas"
+                },
+                {
+                    "nombre": "Manuel Tarancón Fandos",
+                    "cargo": "Conseller de Cultura y Educación"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Bienestar Social"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Alicia de Miguel García",
+                    "cargo": "Consellera Portavoz del Gobierno"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PP) de 23.07.1999 a 22.05.2000",
+            "presidente": {
+                "nombre": "Eduardo Zaplana Hernández-Soro",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Luis Olivas Martínez",
+                    "cargo": "Vicepresidente primero",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Fernando Vicente Castelló Boronat",
+                    "cargo": "Conseller de Industria y Comercio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "José Joaquín Ripoll Serrano",
+                    "cargo": "Vicepresidente segundo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Maria Àngels Ramón-Llin i Martínez",
+                    "cargo": "Consellera de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Vicente Rambla Momplet",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Fernando Modrego Caballero",
+                    "cargo": "Conseller de Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "José Ramón García Antón",
+                    "cargo": "Conseller de Obras Públicas, Urbanismo y Transportes",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Justicia y Administraciones Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Manuel Tarancón Fandos",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "Rafael Blasco Castany",
+                    "cargo": "Conseller de Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "José Emilio Cervera Cardona",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                },
+                {
+                    "nombre": "María Carmen Mas Rubio",
+                    "cargo": "Consellera de Bienestar Social hasta 17/05/2000",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1999/07/23/pdf/1999_6920.pdf"
+                }
+            ]
+        }
+    ]
+}

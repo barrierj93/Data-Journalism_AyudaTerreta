@@ -1,0 +1,297 @@
+{
+    "nombre": "X Legislatura",
+    "url": "https://presidencia.gva.es/es/x-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Quinto gobierno (PSOE+Compromís+Unides Podem-EU) de 26.10.2022 a 16.07.2023",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Aitana Joana Mas i Mas",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                },
+                {
+                    "nombre": "Héctor Illueca Ballester",
+                    "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática"
+                },
+                {
+                    "nombre": "Arcadi España García",
+                    "cargo": "Conseller de Hacienda y Modelo Económico"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Interior y Administración Pública (cese 07.07.2023)"
+                },
+                {
+                    "nombre": "Raquel Tamarit Iranzo",
+                    "cargo": "Conseller de Educación, Cultura y Deporte"
+                },
+                {
+                    "nombre": "Miguel Mínguez Pérez",
+                    "cargo": "Conseller de Sanidad Universal y Salud Pública"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                },
+                {
+                    "nombre": "Isaura Navarro Casillas",
+                    "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/10/26/pdf/2022_9883.pdf"
+                },
+                {
+                    "nombre": "Rebeca Mariola Torró Soler",
+                    "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad"
+                },
+                {
+                    "nombre": "Josefina Antonia Bueno Alonso",
+                    "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                },
+                {
+                    "nombre": "Rosa Pérez Garijo",
+                    "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                }
+            ]
+        },
+        {
+            "titulo": "Cuarto gobierno (PSOE+Compromís+Unides Podem-EU) de 29.06.2022-26.10.2022",
+            "fecha_inicio": "29.06.2022",
+            "fecha_fin": "26.10.2022",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Aitana Joana Mas i Mas",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/06/29/pdf/2022_6129.pdf"
+                },
+                {
+                    "nombre": "Héctor Illueca Ballester",
+                    "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática"
+                },
+                {
+                    "nombre": "Arcadi España García",
+                    "cargo": "Conseller de Hacienda y Modelo Económico"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                },
+                {
+                    "nombre": "Raquel Tamarit Iranzo",
+                    "cargo": "Conseller de Educación, Cultura y Deporte"
+                },
+                {
+                    "nombre": "Miguel Mínguez Pérez",
+                    "cargo": "Conseller de Sanidad Universal y Salud Pública"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                },
+                {
+                    "nombre": "Mireia Mollà Herrera",
+                    "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                },
+                {
+                    "nombre": "Rebeca Mariola Torró Soler",
+                    "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad"
+                },
+                {
+                    "nombre": "Josefina Antonia Bueno Alonso",
+                    "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                },
+                {
+                    "nombre": "Rosa Pérez Garijo",
+                    "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                }
+            ]
+        },
+        {
+            "titulo": "Tercer gobierno (PSOE+Compromís+Unides Podem-EU) de 14.05.2022-29.06.2022",
+            "fecha_inicio": "14.05.2022",
+            "fecha_fin": "29.06.2022",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Mónica Oltra Jarque",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                },
+                {
+                    "nombre": "Héctor Illueca Ballester",
+                    "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2021/09/10/pdf/2021_9121.pdf"
+                },
+                {
+                    "nombre": "Arcadi España García",
+                    "cargo": "Conseller de Hacienda y Modelo Económico",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4257.pdf"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                },
+                {
+                    "nombre": "Raquel Tamarit Iranzo",
+                    "cargo": "Conseller de Educación, Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4258.pdf"
+                },
+                {
+                    "nombre": "Miguel Mínguez Pérez",
+                    "cargo": "Conseller de Sanidad Universal y Salud Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4259.pdf"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                },
+                {
+                    "nombre": "Mireia Mollà Herrera",
+                    "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                },
+                {
+                    "nombre": "Rebeca Mariola Torró Soler",
+                    "cargo": "Consellera de Política Territorial, Obras Públicas y Movilidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4260.pdf"
+                },
+                {
+                    "nombre": "Josefina Antonia Bueno Alonso",
+                    "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2022/05/14/pdf/2022_4261.pdf"
+                },
+                {
+                    "nombre": "Rosa Pérez Garijo",
+                    "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PSOE+Compromís+Unides Podem-EU) de 10.09.2021-14.05.2022",
+            "fecha_inicio": "10.09.2021",
+            "fecha_fin": "14.05.2022",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Mónica Oltra Jarque",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva"
+                },
+                {
+                    "nombre": "Héctor Illueca Ballester",
+                    "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2021/09/10/pdf/2021_9121.pdf"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Hacienda y Modelo Económico"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Interior y Administración Pública"
+                },
+                {
+                    "nombre": "Vicent Marzà Ibáñez",
+                    "cargo": "Conseller de Educación, Cultura y Deporte"
+                },
+                {
+                    "nombre": "Ana Barceló Chico",
+                    "cargo": "Consellera de Sanidad Universal y Salud Pública"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo"
+                },
+                {
+                    "nombre": "Mireia Mollà Herrera",
+                    "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climática y Transición Ecológica"
+                },
+                {
+                    "nombre": "Arcadi España García",
+                    "cargo": "Conseller de Política Territorial, Obras Públicas y Movilidad"
+                },
+                {
+                    "nombre": "Carolina Pascual Villalobos",
+                    "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital"
+                },
+                {
+                    "nombre": "Rosa Pérez Garijo",
+                    "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PSOE+Compromís+Unides Podem-EU) de 17.06.2019 a 10.09.2021",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Mónica Oltra Jarque",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y consellera de Igualdad y Políticas Inclusiva",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Rubén Martínez Dalmau",
+                    "cargo": "Vicepresidente segundo del Consell y conseller de Vivienda y Arquitectura Bioclimática",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Hacienda y Modelo Económico",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Interior y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Vicent Marzà Ibáñez",
+                    "cargo": "Conseller de Educación, Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Ana Barceló Chico",
+                    "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economia Sostenible, Sectores Productivos, Comercio y Trabajo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Mireia Mollà Herrera",
+                    "cargo": "Consellera de Agricultura, Desarrollo Rural, Emergéncia Climética y Transición Ecológica",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Arcadi España García",
+                    "cargo": "Conseller de Política Territorial, Obras Públicas y Movilidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Carolina Pascual Villalobos",
+                    "cargo": "Consellera de Innovación, Universidades, Ciencia y Sociedad Digital",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                },
+                {
+                    "nombre": "Rosa Pérez Garijo",
+                    "cargo": "Consellera de Participación, Transparencia, Cooperación y Calidad Democrática",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2019/06/17/pdf/2019_6242.pdf"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "nombre": "Gobierno de Transición",
+    "url": "https://presidencia.gva.es/es/govern-de-transicio",
+    "gobiernos": [
+        {
+            "titulo": "Segundo gobierno de Transición (PSPV-PSOE+UCD+PCPV-PCE) de 01.12.1982 a 28.06.1983",
+            "presidente": {
+                "nombre": "Joan Lerma i Blasco",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801993.pdf"
+                },
+                {
+                    "nombre": "Manuel Tarancón Fandos",
+                    "cargo": "Conseller de Agricultura, Pesca y Alimentación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801990.pdf"
+                },
+                {
+                    "nombre": "Antonio Birlanga Casanova",
+                    "cargo": "Conseller de Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801986.pdf"
+                },
+                {
+                    "nombre": "Vicente Gómez Chirivella",
+                    "cargo": "Conseller de Transportes y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801992.pdf"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura, Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801988.pdf"
+                },
+                {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                },
+                {
+                    "nombre": "Ángel Luna González",
+                    "cargo": "Conseller de Sanidad, Trabajo y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801989.pdf"
+                },
+                {
+                    "nombre": "Jorge Navarro Canuto",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                },
+                {
+                    "nombre": "Segundo Bru Parra",
+                    "cargo": "Conseller de Comercio e Industria",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801991.pdf"
+                },
+                {
+                    "nombre": "José Luis Sorribes Mur",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                },
+                {
+                    "nombre": "Luis Verdú López",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801987.pdf"
+                },
+                {
+                    "nombre": "Amparo Cabanes Pecourt",
+                    "cargo": "Consellera sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1982/12/01/pdf/1982_801985.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno de Transición (UCD+PSPV-PSOE+PCPV-PCE) de 11.08.1982 a 30.11.1982",
+            "presidente": {
+                "nombre": "Enrique Monsonís Domingo",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente y Conseller de Interior"
+                },
+                {
+                    "nombre": "Luis Verdú López Sanz",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura"
+                },
+                {
+                    "nombre": "Ángel Luna González.",
+                    "cargo": "Conseller de Trabajo"
+                },
+                {
+                    "nombre": "Segundo Bru Parra",
+                    "cargo": "Conseller de Economía, Comercio e Industria"
+                },
+                {
+                    "nombre": "Amparo Cabanes Pecourt",
+                    "cargo": "Consellera de Educación"
+                },
+                {
+                    "nombre": "José Luis Sorribes Mur",
+                    "cargo": "Conseller adjunto a la Presidencia"
+                },
+                {
+                    "nombre": "Vicente Gómez Chirivella",
+                    "cargo": "Conseller de Transporte y Turismo"
+                },
+                {
+                    "nombre": "Jorge Navarro Canuto",
+                    "cargo": "Conseller de Hacienda"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "nombre": "VIII Legislatura",
+    "url": "https://presidencia.gva.es/es/viii-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Sexto gobierno (PP) desde 12.06.2014 al 26.06.2015",
+            "presidente": {
+                "nombre": "Alberto Fabra Part",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Vicepresidente y Portavoz del Consell (hasta 29/05/2014) y Conseller de Presidencia y"
+                },
+                {
+                    "nombre": "Manuel Llombart Fuertes",
+                    "cargo": "Conseller de Sanidad"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                },
+                {
+                    "nombre": "Máximo Buch Torralva",
+                    "cargo": "Conseller de Economía, Industria, Turismo y Empleo"
+                },
+                {
+                    "nombre": "Asunción Sánchez Zaplana",
+                    "cargo": "Consellera de Bienestar Social (hasta 12/06/2015)"
+                },
+                {
+                    "nombre": "Juan Carlos Moragues Ferrer",
+                    "cargo": "Conseller de Hacienda y Administración Pública"
+                },
+                {
+                    "nombre": "Luis Santamaría Ruiz",
+                    "cargo": "Conseller de Gobernación y Justicia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2014/06/13/pdf/2014_5485.pdf"
+                },
+                {
+                    "nombre": "Mª José Català Verdet",
+                    "cargo": "Portavoz del Consell (desde 29/05/2014) y Consellera de Educación, Cultura y Deporte"
+                }
+            ]
+        },
+        {
+            "titulo": "Quinto gobierno (PP) desde 7.12.2012 al 12.06.2014",
+            "presidente": {
+                "nombre": "Alberto Fabra Part",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Vicepresidente y Portavoz del Consell (hasta 29/05/2014) y Conseller de Presidencia y",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Manuel Llombart Fuertes",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Máximo Buch Torralva",
+                    "cargo": "Conseller de Economía, Industria, Turismo y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Asunción Sánchez Zaplana",
+                    "cargo": "Consellera de Bienestar Social (hasta 12/06/2015)",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Juan Carlos Moragues Ferrer",
+                    "cargo": "Conseller de Hacienda y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación y Justicia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                },
+                {
+                    "nombre": "Mª José Català Verdet",
+                    "cargo": "Portavoz del Consell (desde 29/05/2014) y Consellera de Educación, Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/12/10/pdf/2012_11340.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Cuarto gobierno (PP) de 20.01.2012 a 7.12.2012",
+            "presidente": {
+                "nombre": "Alberto Fabra Part",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Conseller de Presidencia y Vicepresidente y Portavoz del Consell"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                },
+                {
+                    "nombre": "Máximo Buch Torralva",
+                    "cargo": "Conseller de Economía, Industria y Comercio"
+                },
+                {
+                    "nombre": "Jorge Cabré Rico",
+                    "cargo": "Conseller de Justicia y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/23/pdf/2012_621.pdf"
+                },
+                {
+                    "nombre": "José Manuel Vela Bargues",
+                    "cargo": "Conseller de Hacienda y Administración Pública. Cesa el 30/11/2012"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua"
+                },
+                {
+                    "nombre": "Dolores Johnson Sastre",
+                    "cargo": "Consellera de Turismo, Cultura, Deporte"
+                },
+                {
+                    "nombre": "Mª José Català Verdet",
+                    "cargo": "Consellera de Educación, Formación y Empleo"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación"
+                },
+                {
+                    "nombre": "Luis Rosado Bretón",
+                    "cargo": "Conseller de Sanidad"
+                }
+            ]
+        },
+        {
+            "titulo": "Tercer gobierno (PP) de 30.12.2011 a 20.01.2012",
+            "presidente": {
+                "nombre": "Alberto Fabra Part",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Conseller de Presidencia y Vicepresidente y Portavoz del Consell",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/02/pdf/2011_13277.pdf"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente"
+                },
+                {
+                    "nombre": "Enrique Verdeguer Puig",
+                    "cargo": "Conseller de Economía, Industria y Comercio"
+                },
+                {
+                    "nombre": "Jorge Cabré Rico",
+                    "cargo": "Conseller de Justicia y Bienestar Social"
+                },
+                {
+                    "nombre": "José Manuel Vela Bargues",
+                    "cargo": "Conseller de Hacienda y Administración Pública"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua"
+                },
+                {
+                    "nombre": "Dolores Johnson Sastre",
+                    "cargo": "Consellera de Turismo, Cultura, Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2012/01/02/pdf/2011_13277.pdf"
+                },
+                {
+                    "nombre": "Mª José Català Verdet",
+                    "cargo": "Consellera de Educación, Formación y Empleo"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación"
+                },
+                {
+                    "nombre": "Luis Rosado Bretón",
+                    "cargo": "Conseller de Sanidad"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno (PP) de 28.07.2011 a 30.12.2011",
+            "presidente": {
+                "nombre": "Alberto Fabra Part",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Paula Sánchez de León Guardiola",
+                    "cargo": "Consellera de Presidencia y Vicepresidenta del Consell",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Enrique Verdeguer Puig",
+                    "cargo": "Conseller de Economía, Industria y Comercio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Jorge Cabré Rico",
+                    "cargo": "Conseller de Justicia y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "José Manuel Vela Bargues",
+                    "cargo": "Conseller de Hacienda y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Dolores Johnson Sastre",
+                    "cargo": "Consellera de Turismo, Cultura, Deporte y Portavoz del Consell",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Consellera de Educación, Formación y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                },
+                {
+                    "nombre": "Luis Rosado Bretón",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/07/29/pdf/2011_8433.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PP) de 22.06.2011 a 28.07.2011",
+            "presidente": {
+                "nombre": "Francisco Enrique Camps Ortiz",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Paula Sánchez de León Guardiola",
+                    "cargo": "Consellera de Presidencia y Vicepresidenta del Consell",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Isabel Bonig Trigueros",
+                    "cargo": "Consellera de Infraestructuras, Territorio y Medio Ambiente",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Enrique Verdeguer Puig",
+                    "cargo": "Conseller de Economía, Industria y Comercio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Jorge Cabré Rico",
+                    "cargo": "Conseller de Justicia y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "José Manuel Vela Bargues",
+                    "cargo": "Conseller de Hacienda y Administración Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Maritina Hernández Miñana",
+                    "cargo": "Consellera de Agricultura, Pesca, Alimentación y Agua",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Dolores Johnson Sastre",
+                    "cargo": "Consellera de Turismo, Cultura, Deporte y Portavoz del Consell",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "José Ciscar Bolufer",
+                    "cargo": "Consellera de Educación, Formación y Empleo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Serafín Castellano Gómez",
+                    "cargo": "Conseller de Gobernación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                },
+                {
+                    "nombre": "Luis Rosado Bretón",
+                    "cargo": "Conseller de Sanidad",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2011/06/22/pdf/2011_7310.pdf"
+                }
+            ]
+        }
+    ]
+}

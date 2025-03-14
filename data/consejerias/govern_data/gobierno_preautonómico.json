@@ -1,0 +1,455 @@
+{
+    "nombre": "Gobierno Preautonómico",
+    "url": "https://presidencia.gva.es/es/govern-preautonomic",
+    "gobiernos": [
+        {
+            "titulo": "Octavo gobierno Preautonómico  (UCD) de 15.09.1981 a 11.08.1982",
+            "presidente": {
+                "nombre": "Enrique Monsonís Domingo",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Felipe Guardiola Sellés",
+                    "cargo": "Vicepresidente y Conseller de Interior",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Luis Verdú López Sanz",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Ciprià Císcar i Casaban",
+                    "cargo": "Conseller de Cultura",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Amparo Cabanes Pecourt",
+                    "cargo": "Consellera de Educación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Segundo Bru Parra",
+                    "cargo": "Conseller de Economía, Comercio e Industria",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "José Antonio Bordils Ferrer",
+                    "cargo": "Conseller de Agricultura y Pesca. Cesa el 15/07/1982",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Salvador López Sanz",
+                    "cargo": "Conseller de Sanidad y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Ángel Luna González",
+                    "cargo": "Conseller de Trabajo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Jose Luis Sorribes Mur",
+                    "cargo": "Conseller adjunto a la Presidencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Vicente Gómez Chirivella",
+                    "cargo": "Conseller de Transporte y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                },
+                {
+                    "nombre": "Jorge Navarro Canuto",
+                    "cargo": "Conseller de Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1981/09/15/pdf/1981_801697.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Séptimo gobierno Preautonómico  (UCD) de 15.06.1981 a 15.09.1981",
+            "presidente": {
+                "nombre": "Enrique Monsonís Domingo",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Peris Soler",
+                    "cargo": "Conseller de Educación y Cultura"
+                },
+                {
+                    "nombre": "José Luis Sorribes Mur",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio y Agricultura"
+                }
+            ]
+        },
+        {
+            "titulo": "Sexto gobierno Preautonómico (UCD) de 1.10.1980 a 15.06.1981",
+            "presidente": {
+                "nombre": "Enrique Monsonís Domingo",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Peris Soler",
+                    "cargo": "Conseller de Educación y Cultura"
+                },
+                {
+                    "nombre": "José Luis Sorribes Mur",
+                    "cargo": "Conseller de Transportes y Bienestar Social, Obras Públicas y Urbanismo y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1980/10/01/pdf/1980_801516.pdf"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio y Agricultura"
+                }
+            ]
+        },
+        {
+            "titulo": "Quinto gobierno Preautonómico  (UCD) de 17.12.1979 a 1.10.1980",
+            "presidente": {
+                "nombre": "Enrique Monsonís Domingo",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "José Peris Soler",
+                    "cargo": "Conseller de Educación y Cultura"
+                },
+                {
+                    "nombre": "Antonio Espinosa Chapinal",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio y Agricultura"
+                }
+            ]
+        },
+        {
+            "titulo": "Cuarto gobierno Preautonómico  (PSPV-PSOE+UCD+PCPV-PCE) de 14.09.1979 a 17.12.1979",
+            "presidente": {
+                "nombre": "Josep Lluís Albiñana Olmos",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Conseller de Economía y Hacienda, Interior y Trabajo, Obras Públicas y Urbanismo y Turismo"
+                },
+                {
+                    "nombre": "Francisco Armell Valero",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante"
+                },
+                {
+                    "nombre": "Salvador Miro San Juan",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante"
+                },
+                {
+                    "nombre": "Antonio Espinosa Chapinal",
+                    "cargo": "Conseller de Transportes y Bienestar Social"
+                },
+                {
+                    "nombre": "Luis Verdú López",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante"
+                },
+                {
+                    "nombre": "José Peris Soler",
+                    "cargo": "Conseller de Educación y Cultura y Sanidad y Seguridad Social"
+                },
+                {
+                    "nombre": "Juan Forés Escurra",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón"
+                },
+                {
+                    "nombre": "Antonio García Miralles",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "Abilio Lázaro Mengod",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio y Agricultura"
+                },
+                {
+                    "nombre": "Julián Sanmillán Rius",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón"
+                },
+                {
+                    "nombre": "José Beviá Pastor",
+                    "cargo": "Conseller sin cartera"
+                },
+                {
+                    "nombre": "Manuel Girona Rubio",
+                    "cargo": "Conseller por la Diputación Provincial de Valencia"
+                },
+                {
+                    "nombre": "Antonio José Tirado Jiménez",
+                    "cargo": "Conseller sin cartera"
+                },
+                {
+                    "nombre": "Vicente Gómez Chirivella",
+                    "cargo": "Conseller por la Diputación Provincial de Valencia"
+                },
+                {
+                    "nombre": "Adela Pla Pastor",
+                    "cargo": "Conseller sin cartera"
+                },
+                {
+                    "nombre": "Benjamín March Civera",
+                    "cargo": "Conseller por las Diputación Provincial de Valencia"
+                },
+                {
+                    "nombre": "José Galán Peláez",
+                    "cargo": "Conseller sin cartera"
+                }
+            ]
+        },
+        {
+            "titulo": "Tercer gobierno Preautonómico  (PSPV-PSOE+UCD+PCPV-PCE) de 30.06.1979 a 14.09.1979",
+            "presidente": {
+                "nombre": "Josep Lluís Albiñana Olmos",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Conseller de Economía y Hacienda, Interior y Trabajo, Obras Públicas y Urbanismo y Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                },
+                {
+                    "nombre": "Francisco Armell Valero",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Salvador Miro San Juan",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Antonio Espinosa Chapinal",
+                    "cargo": "Conseller de Transportes y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                },
+                {
+                    "nombre": "Luis Verdú López",
+                    "cargo": "Conseller por la Diputación Provincial de Alicante",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "José Peris Soler",
+                    "cargo": "Conseller de Educación y Cultura y Sanidad y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Juan Forés Escurra",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Antonio García Miralles",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                },
+                {
+                    "nombre": "Abilio Lázaro Mengod",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio y Agricultura",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                },
+                {
+                    "nombre": "Julián Sanmillán Rius",
+                    "cargo": "Conseller por la Diputación Provincial de Castellón",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "José Beviá Pastor",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801206.pdf"
+                },
+                {
+                    "nombre": "Manuel Girona Rubio",
+                    "cargo": "Conseller por la Diputación Provincial de Valencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Antonio García Miralles",
+                    "cargo": "Conseller sin cartera"
+                },
+                {
+                    "nombre": "Vicente Gómez Chirivella",
+                    "cargo": "Conseller por la Diputación Provincial de Valencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "José Galán Peláez",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Adela Pla Pastor",
+                    "cargo": "Conseller sin cartera",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                },
+                {
+                    "nombre": "Benjamín March Civera",
+                    "cargo": "Conseller por las Diputación Provincial de Valencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1979/06/30/pdf/1979_801208.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Segundo gobierno Preautonómico (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) de 17.06.1978 a 30.06.1979",
+            "presidente": {
+                "nombre": "Josep Lluís Albiñana Olmos",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Javier Aguirre de la Hoz",
+                    "cargo": "Conseller de Economía y Hacienda"
+                },
+                {
+                    "nombre": "Alberto Jarabo Payá",
+                    "cargo": "Conseller de Turismo"
+                },
+                {
+                    "nombre": "Fernando Vidal Gil",
+                    "cargo": "Conseller de Interior"
+                },
+                {
+                    "nombre": "Manuel Sánchez Ayuso",
+                    "cargo": "Conseller de Sanidad y Seguridad Social"
+                },
+                {
+                    "nombre": "José Luis Barceló Rodríguez",
+                    "cargo": "Conseller de Educación y Ciencia"
+                },
+                {
+                    "nombre": "José Beviá Pastor",
+                    "cargo": "Conseller de Cultura"
+                },
+                {
+                    "nombre": "Antonio García Miralles",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo"
+                },
+                {
+                    "nombre": "José Galán Peláez",
+                    "cargo": "Conseller de Transportes y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/11/01/pdf/1978_801160.pdf"
+                },
+                {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Conseller de Trabajo"
+                },
+                {
+                    "nombre": "Bernardo Heredia Gutiérrez",
+                    "cargo": "Conseller sin cartera Alicante"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio"
+                },
+                {
+                    "nombre": "Luis Ramón Martínez Pérez",
+                    "cargo": "Conseller sin cartera Castellón"
+                },
+                {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Conseller de Agricultura"
+                },
+                {
+                    "nombre": "Ignacio Docavo Alberti",
+                    "cargo": "Conseller sin cartera Valencia"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno Preautonómico (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) de 10.04.1978 a 17.06.1978",
+            "presidente": {
+                "nombre": "Josep Lluís Albiñana Olmos",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Javier Aguirre de la Hoz",
+                    "cargo": "Conseller de Economía y Hacienda",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                },
+                {
+                    "nombre": "Alberto Jarabo Payá",
+                    "cargo": "Conseller de Turismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "Fernando Vidal Gil",
+                    "cargo": "Conseller de Interior",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                },
+                {
+                    "nombre": "Manuel Sánchez Ayuso",
+                    "cargo": "Conseller de Sanidad y Seguridad Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "José Luis Barceló Rodríguez",
+                    "cargo": "Conseller de Educación y Ciencia",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                },
+                {
+                    "nombre": "José Beviá Pastor",
+                    "cargo": "Conseller de Cultura",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "Antonio García Miralles",
+                    "cargo": "Conseller de Obras Públicas y Urbanismo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                },
+                {
+                    "nombre": "Emèrit Bono i Martínez",
+                    "cargo": "Conseller de Transportes y Bienestar Social",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "Joan Lerma i Blasco",
+                    "cargo": "Conseller de Trabajo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "Bernardo Heredia Gutiérrez",
+                    "cargo": "Conseller sin cartera Alicante"
+                },
+                {
+                    "nombre": "Leonardo Ramón Sales",
+                    "cargo": "Conseller de Industria y Comercio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801131.pdf"
+                },
+                {
+                    "nombre": "Luis Ramón Martínez Pérez",
+                    "cargo": "Conseller sin cartera Castellón"
+                },
+                {
+                    "nombre": "Enrique Monsonís Domingo",
+                    "cargo": "Conseller de Agricultura",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/1978/05/19/pdf/1978_801130.pdf"
+                },
+                {
+                    "nombre": "Ignacio Docavo Alberti",
+                    "cargo": "Conseller sin cartera Valencia"
+                }
+            ]
+        }
+    ]
+}

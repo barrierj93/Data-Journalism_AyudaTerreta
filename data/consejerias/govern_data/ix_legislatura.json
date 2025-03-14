@@ -1,0 +1,106 @@
+{
+    "nombre": "IX Legislatura",
+    "url": "https://presidencia.gva.es/es/ix-legislatura",
+    "gobiernos": [
+        {
+            "titulo": "Segundo gobierno (PSOE+Compromís) de 08.06.2018 a 16.06.2019",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Mónica Oltra Jarque",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y Consellera de Igualdad y Políticas Inclusivas"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Hacienda y Modelo Económico"
+                },
+                {
+                    "nombre": "Elena Cebrián Calvo",
+                    "cargo": "Consellera de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Administración Pública, Reformas Democráticas y Libertades Públicas"
+                },
+                {
+                    "nombre": "María José Salvador Rubert",
+                    "cargo": "Consellera de Vivienda, Obras Públicas y Vertebración del Territorio. Cesa el día 16/05/2019"
+                },
+                {
+                    "nombre": "Vicent Marzà Ibáñez",
+                    "cargo": "Conseller de Educación, Investigación, Cultura y Deporte"
+                },
+                {
+                    "nombre": "Manuel Alcaraz Ramos",
+                    "cargo": "Conseller de Transparencia, Responsabilidad Social, Participación y Cooperación"
+                },
+                {
+                    "nombre": "Ana Barceló Chico",
+                    "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2018/06/07/pdf/2018_5712.pdf"
+                }
+            ]
+        },
+        {
+            "titulo": "Primer gobierno (PSOE+Compromís) de 29.06.2015 a 07.06.2018",
+            "presidente": {
+                "nombre": "Ximo Puig i Ferrer",
+                "cargo": "Presidente"
+            },
+            "consejeros": [
+                {
+                    "nombre": "Mónica Oltra Jarque",
+                    "cargo": "Vicepresidenta y Portavoz del Consell y Consellera de Igualdad y Políticas Inclusivas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Rafael Climent González",
+                    "cargo": "Conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Vicent Soler i Marco",
+                    "cargo": "Conseller de Hacienda y Modelo Económico",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Elena Cebrián Calvo",
+                    "cargo": "Consellera de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Gabriela Bravo Sanestanislao",
+                    "cargo": "Consellera de Justicia, Administración Pública, Reformas Democráticas y Libertades Públicas",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "María José Salvador Rubert",
+                    "cargo": "Consellera de Vivienda, Obras Públicas y Vertebración del Territorio",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Vicent Marzà Ibáñez",
+                    "cargo": "Conseller de Educación, Investigación, Cultura y Deporte",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Manuel Alcaraz Ramos",
+                    "cargo": "Conseller de Transparencia, Responsabilidad Social, Participación y Cooperación",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                },
+                {
+                    "nombre": "Carmen Montón Giménez",
+                    "cargo": "Consellera de Sanidad Universal y Salud Pública",
+                    "enlace_nombramiento": "https://dogv.gva.es/datos/2015/06/30/pdf/2015_6166.pdf"
+                }
+            ]
+        }
+    ]
+}

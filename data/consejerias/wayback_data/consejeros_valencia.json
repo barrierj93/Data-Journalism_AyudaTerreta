@@ -1,0 +1,669 @@
+{
+    "IX Legislatura": [
+        {
+            "equipo": "Primer govern (PSOE+Compromís) de 29/06/2015",
+            "consejeros": [
+                "Ximo Puig i Ferrer\nPresident",
+                "Mónica Oltra Jarque\nVicepresidenta i Portaveu del Consell i consellera d’Igualtat i Polítiques Inclusives",
+                "Vicent Soler i Marco\nConseller d’Hisenda i Model Econòmic",
+                "Gabriela Bravo Sanestanislao\nConsellera de Justícia, Administració Pública, Reformes Democràtiques i Llibertats Públiques",
+                "Vicent Marzà Ibáñez\nConseller d’Educació, Investigació, Cultura i Esport",
+                "Carmen Montón Giménez\nConsellera de Sanitat Universal i Salut Pública",
+                "Rafael Climent González\nConseller d’Economia Sostenible, Sectors Productius, Comerç i Treball",
+                "Elena Cebrián Calvo\nConsellera d’Agricultura, Medi Ambient, Canvi Climàtic i Desenvolupament Rural",
+                "María José Salvador Rubert\nConsellera d’Habitatge, Obres Públiques i Vertebració del Territori",
+                "Manuel Alcaraz Ramos\nConseller de Transparència, Responsabilitat Social, Participació i Cooperació"
+            ]
+        }
+    ],
+    "VIII Legislatura": [
+        {
+            "equipo": "Sisé govern (PP) des de 12/06/2014 a 26/06/2015",
+            "consejeros": [
+                "Alberto Fabra Part\nPresident",
+                "José Ciscar Bolufer\nVicepresident i Portaveu del Consell (fins 29/05/2014) i Conseller de Presidència i",
+                "Agricultura, Pesca, Alimentació i Aigua (fins al 12/06/2015)",
+                "Máximo Buch Torralva\nConseller d'Economia, Indústria, Turisme i Ocupació",
+                "Juan Carlos Moragues Ferrer\nConseller d'Hisenda i Administració Pública",
+                "Mª José Català Verdet\nPortaveu del Consell (des de 29/05/2014) i Consellera d'Educació, Cultura i Esport",
+                "Manuel Llombart Fuertes\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Asunción Sánchez Zaplana\nConsellera de Benestar Social (fins al 12/06/2015)",
+                "Luis Santamaría Ruiz\nConseller de Governació i Justícia"
+            ]
+        },
+        {
+            "equipo": "Quint govern (PP) des de 07/12/2012 a 12/06/2014",
+            "consejeros": [
+                "Alberto Fabra Part\nPresident",
+                "José Ciscar Bolufer\nVicepresident i Portaveu del Consell (fins 29/05/2014) i Conseller de Presidència i",
+                "Agricultura, Pesca, Alimentació i Aigua",
+                "Máximo Buch Torralva\nConseller d'Economia, Indústria, Turisme i Ocupació",
+                "Juan Carlos Moragues Ferrer\nConseller d'Hisenda i Administració Pública",
+                "Mª José Català Verdet\nPortaveu del Consell (des de 29/05/2014) i Consellera d'Educació, Cultura i Esport",
+                "Manuel Llombart Fuertes\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Asunción Sánchez Zaplana\nConsellera de Benestar Social",
+                "Serafín Castellano Gómez\nConseller de Governació i Justícia"
+            ]
+        },
+        {
+            "equipo": "Quart govern (PP) de 20/01/2012 a 07/12/2012",
+            "consejeros": [
+                "Alberto Fabra Part\nPresident",
+                "José Ciscar Bolufer\nConseller de Presidència i Vicepresident i Portaveu del Consell",
+                "Máximo Buch Torralva\nConseller d'Economia, Indústria i Comerç",
+                "José Manuel Vela Bargues\nConseller d'Hisenda i Administració Pública. Cesa el 30/11/2012",
+                "Mª José Català Verdet\nConsellera d’Educació, Formació i Ocupació",
+                "Luis Rosado Bretón\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Jorge Cabré Rico\nConseller de Justícia i Benestar Social",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca, Alimentació i Aigua",
+                "Dolores Johnson Sastre\nConsellera de Turisme, Cultura, Esport",
+                "Serafín Castellano Gómez\nConseller de Governació"
+            ]
+        },
+        {
+            "equipo": "Tercer govern (PP) de 30/12/2011 a 20/01/2012",
+            "consejeros": [
+                "Alberto Fabra Part\nPresident",
+                "José Ciscar Bolufer\nConseller de Presidència i Vicepresident i Portaveu del Consell",
+                "Enrique Verdeguer Puig\nConseller d'Economia, Indústria i Comerç",
+                "José Manuel Vela Bargues\nConseller d'Hisenda i Administració Pública",
+                "Mª José Català Verdet\nConsellera d'Educació, Formació i Ocupació",
+                "Luis Rosado Bretón\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Jorge Cabré Rico\nConseller de Justícia i Benestar Social",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca, Alimentació i Aigua",
+                "Dolores Johnson Sastre\nConsellera de Turisme, Cultura, Esport",
+                "Serafín Castellano Gómez\nConseller de Governació"
+            ]
+        },
+        {
+            "equipo": "Segón govern (PP) de 28/07/2011 a 30/12/2011",
+            "consejeros": [
+                "Alberto Fabra Part\nPresident",
+                "Paula Sánchez de León Guardiola\nConsellera de Presidència i Vicepresidenta del Consell",
+                "Enrique Verdeguer Puig\nConseller d'Economia, Indústria i Comerç",
+                "José Manuel Vela Bargues\nConseller d'Hisenda i Administració Pública",
+                "José Ciscar Bolufer\nConseller d'Educació, Formació i Ocupació",
+                "Luis Rosado Bretón\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Jorge Cabré Rico\nConseller de Justícia i Benestar Social",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca, Alimentació i Aigua",
+                "Dolores Johnson Sastre\nConsellera de Turisme, Cultura, Esport i Portaveu del Consell",
+                "Serafín Castellano Gómez\nConseller de Governació"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PP) de 22/06/2011 a 28/07/2011",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Paula Sánchez de León Guardiola\nConsellera de Presidència i Vicepresidenta del Consell",
+                "Enrique Verdeguer Puig\nConseller d'Economia, Indústria i Comerç",
+                "José Manuel Vela Bargues\nConseller d'Hisenda i Administració Pública",
+                "José Ciscar Bolufer\nConseller d'Educació, Formació i Ocupació",
+                "Luis Rosado Bretón\nConseller de Sanitat",
+                "Isabel Bonig Trigueros\nConsellera d'Infraestructures, Territori i Medi Ambient",
+                "Jorge Cabré Rico\nConseller de Justícia i Benestar Social",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca, Alimentació i Aigua",
+                "Dolores Johnson Sastre\nConsellera de Turisme, Cultura, Esport i Portaveu del Consell",
+                "Serafín Castellano Gómez\nConseller de Governació"
+            ]
+        }
+    ],
+    "VII Legislatura": [
+        {
+            "equipo": "Tercer govern (PP) de 31/08/2009 a 22/06/2011",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Vicente Rambla Momplet\nConseller d'Indústria, Comerç i Innovació i Vicepresident 1r",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació i Vicepresident 2n",
+                "Juan Gabriel Cotino Ferrer\nConseller de Medi Ambient, Aigua, Urbanisme i Vivenda i Vicepresident 3r",
+                "Mario Flores Lanuza\nConseller d'Infraestructures i Transport",
+                "Alejandro Font de Mora Turón\nConseller d'Educació",
+                "Trinidad María Miró Mira\nConsellera de Cultura i Esport",
+                "Manuel Cervera Taulet\nConseller de Sanitat",
+                "Belén Juste Picón\nConsellera de Turisme",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca i Alimentació",
+                "Paula Sánchez de León\nConsellera de Justícia i Administracions Públiques",
+                "Serafín Castellano Gómez\nConseller de Governació",
+                "Angélica Such Ronda\nConsellera de Benestar Social",
+                "Rafael Blasco Castany\nConseller d'Immigració i Ciutadania"
+            ]
+        },
+        {
+            "equipo": "Segon govern (PP) de 19/09/2008 a 31/08/2009",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Vicente Rambla Momplet\nConseller de Presidència i Vicepresident 1r",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació i Vicepresident 2n",
+                "Juan Gabriel Cotino Ferrer\nConseller de Benestar Social y Vicepresident 3r",
+                "Mario Flores Lanuza\nConseller d'Infraestructures i Transport",
+                "Alejandro Font de Mora Turón\nConseller d'Educació",
+                "Trinidad María Miró Mira\nConsellera de Cultura i Esport",
+                "Manuel Cervera Taulet\nConseller de Sanitat",
+                "Belén Juste Picón\nConsellera d'Indústria, Comerç i Innovació",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Ramón García Antón\nConseller de Medi Ambient, Aigua, Urbanisme i Vivenda",
+                "Paula Sánchez de León\nConsellera de Justícia i Administracions Públiques",
+                "Serafín Castellano Gómez\nConseller de Governació",
+                "Angélica Such Ronda\nConsellera de Turisme",
+                "Rafael Blasco Castany\nConseller d'Immigració i Ciutadania"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PP) de 29/06/2007 a 19/09/2008",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresidente",
+                "Vicente Rambla Momplet\nConseller de Presidència i Vicepresident 1r",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació i Vicepresident 2n",
+                "Juan Gabriel Cotino Ferrer\nConseller de Benestar Social i Vicepresident 3r",
+                "Mario Flores Lanuza\nConseller d'Infraestructures i Transport",
+                "Alejandro Font de Mora Turón\nConseller d'Educació",
+                "Trinidad María Miró Mira\nConsellera de Cultura i Esport",
+                "Manuel Cervera Taulet\nConseller de Sanitat",
+                "Belén Juste Picón\nConsellera d'Indústria, Comerç i Innovació",
+                "Maritina Hernández Miñana\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Ramón García Antón\nConseller de Medi Ambient, Aigua, Urbanisme i Vivenda",
+                "Fernando de Rosa Torner\nConseller de Justícia i Administracions Públiques",
+                "Serafín Castellano Gómez\nConseller de Governació",
+                "Angélica Such Ronda\nConsellera de Turisme",
+                "Rafael Blasco Castany\nConseller d'Immigració i Ciutadania"
+            ]
+        }
+    ],
+    "VI Legislatura": [
+        {
+            "equipo": "Tercer govern (PP) de 30/05/2006 a 29/06/2007",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Víctor Campos Guinot\nVicepresident",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació",
+                "Miguel Peralta Viñes\nConseller de Justícia i Administracions Públiques",
+                "José Ramón García Antón\nConseller d'Infraestructures i Transport",
+                "Alejandro Font de Mora Turón\nConseller de Cultura, Educació i Esport",
+                "Rafael Blasco Castany\nConseller de Sanitat",
+                "Justo Nieto Nieto\nConseller d'Empresa, Universitat i Ciència",
+                "Juan Gabriel Cotino Ferrer\nConseller d'Agricultura, Pesca i Alimentació",
+                "Esteban González Pons\nConseller de Territori i Vivenda",
+                "Alicia de Miguel García\nConsellera de Benestar Social",
+                "María Milagrosa Martínez Navarro\nConsellera de Turisme",
+                "Vicente Rambla Momplet\nConseller de Relacions Institucionals i Comunicació i Portaveu del Consell de la Generalitat (sense cartera)",
+                "Gema Amor Pérez\nConsellera de Cooperació i Participació (sense cartera)"
+            ]
+        },
+        {
+            "equipo": "Segón govern (PP) de 27/08/2004 a 30/05/2006",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Víctor Campos Guinot\nVicepresident",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació",
+                "Miguel Peralta Viñes\nConseller de Justícia i Administracions Públiques",
+                "José Ramón García Antón\nConseller d'Infraestructures i Transport",
+                "Alejandro Font de Mora Turón\nConseller de Cultura, Educació i Esport",
+                "Vicente Rambla Momplet\nConseller de Sanitat",
+                "Justo Nieto Nieto\nConseller d'Empresa, Universitat i Ciència",
+                "Juan Gabriel Cotino Ferrer\nConseller d'Agricultura, Pesca i Alimentació",
+                "Rafael Blasco Castany\nConseller de Territori i Vivenda",
+                "Alicia de Miguel García\nConsellera de Benestar Social",
+                "María Milagrosa Martínez Navarro\nConsellera de Turisme",
+                "Esteban González Pons\nConseller de Relacions Institucionals i Comunicació i Portaveu del Consell de la Generalitat (sense cartera)",
+                "Gema Amor Pérez\nConsellera de Cooperació i Participació (sense cartera)"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PP) de 21/06/2003 a 27/08/2004",
+            "consejeros": [
+                "Francisco Enrique Camps Ortiz\nPresident",
+                "Alejandro Font de Mora Turón\nConseller de Presidència",
+                "Gerardo Camps Devesa\nConseller d'Economia, Hisenda i Ocupació",
+                "Víctor Campos Guinot\nConseller de Justícia i Administracions Públiques",
+                "José Ramón García Antón\nConseller d'Infraestructures i Transport",
+                "Esteban González Pons\nConseller de Cultura, Educació i Esport",
+                "Vicente Rambla Momplet\nConseller de Sanitat",
+                "Miguel Peralta Viñes\nConseller d'Indústria, Comerç i Turisme",
+                "Gema Amor Pérez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "Rafael Blasco Castany\nConseller de Territori i Vivenda",
+                "Alicia de Miguel García\nConsellera de Benestar Social"
+            ]
+        }
+    ],
+    "V Legislatura": [
+        {
+            "equipo": "Tercer govern (PP) de 25/07/2002 a 21/06/2003",
+            "consejeros": [
+                "José Luis Olivas Martínez\nPresident",
+                "José Joaquín Ripoll Serrano\nVicepresident",
+                "Vicente Rambla Momplet\nConseller d'Economia, Hisenda i Ocupació",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Manuel Tarancón Fandos\nConseller de Cultura i Educació",
+                "Serafín Castellano Gómez\nConseller de Sanitat",
+                "Fernando Vicente Castelló Boronat\nConseller d'Indústria, Comerç i Energia",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "Fernando Modrego Caballero\nConseller de Medi Ambient",
+                "Carlos González Cepeda\nConseller de Justícia i Administracions Públiques",
+                "Rafael Blasco Castany\nConseller de Benestar Social",
+                "Alicia de Miguel García\nConsellera Portaveu del Govern"
+            ]
+        },
+        {
+            "equipo": "Segón govern (PP) de 22/5/2000 a 25/7/2002",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro\nPresident",
+                "José Luis Olivas Martínez\nVicepresident 1r",
+                "José Joaquín Ripoll Serrano\nVicepresident 2n",
+                "Vicente Rambla Momplet\nConseller d'Economia, Hisenda i Ocupació",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Manuel Tarancón Fandos\nConseller de Cultura i Educació",
+                "Serafín Castellano Gómez\nConseller de Sanitat",
+                "Fernando Vicente Castelló Boronat\nConseller d'Indústria i Comerç de 22/05/2000 a 30/10/2001\nConseller d'Innovació i Competitivitat des de 30/10/2001",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "Fernando Modrego Caballero\nConseller de Medi Ambient",
+                "Carlos González Cepeda\nConseller de Justícia i Administracions Públiques",
+                "Rafael Blasco Castany\nConseller de Benestar Social",
+                "Alicia de Miguel García\nConsellera Portaveu del Govern"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PP) de 23/07/1999 a 22/05/2000",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro\nPresident",
+                "José Luis Olivas Martínez\nVicepresident 1r",
+                "José Joaquín Ripoll Serrano\nVicepresident 2n",
+                "Vicente Rambla Momplet\nConseller d'Economia i Hisenda",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Manuel Tarancón Fandos\nConseller de Cultura, Educació i Ciència",
+                "José Emilio Cervera Cardona\nConseller de Sanitat",
+                "Fernando Vicente Castelló Boronat\nConseller d'Indústria i Comerç",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "Fernando Modrego Caballero\nConseller de Medi Ambient",
+                "Serafín Castellano Gómez\nConseller de Justícia i Administracions Públiques",
+                "Rafael Blasco Castany\nConseller d'Ocupació",
+                "María Carmen Mas Rubio\nConsellera de Benestar Social fins a 17/05/2000"
+            ]
+        }
+    ],
+    "IV Legislatura": [
+        {
+            "equipo": "Sext govern (PP+UV) de 23/01/1999 a 23/07/1999",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro (PP-CV)\nPresident",
+                "José Joaquín Ripoll Serrano\nConseller de Presidència",
+                "José Luis Olivas Martínez\nConseller d'Economia, Hisenda i Administració Pública",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Manuel Tarancón Fandos\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat",
+                "Diego Such Pérez\nConseller d'Ocupació, Indústria i Comerç",
+                "Salvador Manuel Ortells Rosell\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Manuel Castellá Almiñana\nConseller de Medi Ambient",
+                "Marcela Miró Pérez\nConsellera de Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Quint govern (PP+UV) de 15/01/1999 a 23/01/1999",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro (PP-CV)\nPresident",
+                "José Joaquín Ripoll Serrano\nConseller de Presidència",
+                "José Luis Olivas Martínez\nConseller d'Economia, Hisenda i Administració Pública",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Francisco Enrique Camps Ortiz\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat",
+                "Diego Such Pérez\nConseller d'Ocupació, Indústria i Comerç",
+                "Salvador Manuel Ortells Rosell\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Manuel Castellá Almiñana\nConseller de Medi Ambient",
+                "Marcela Miró Pérez\nConsellera de Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Cuarto govern (PP+UV) de 16/03/1998 a 15/01/1999",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro (PP-CV)\nPresident",
+                "José Joaquín Ripoll Serrano\nConseller de Presidència",
+                "José Luis Olivas Martínez\nConseller d'Economia, Hisenda i Administració Pública",
+                "José Ramón García Antón\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Francisco Enrique Camps Ortiz\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat",
+                "Diego Such Pérez\nConseller d'Ocupació, Indústria i Comerç",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Manuel Castellá Almiñana\nConseller de Medi Ambient",
+                "Marcela Miró Pérez\nConsellera de Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Tercer govern (PP+UV) de 24/02/1997 a 16/03/1998",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro (PP-CV)\nPresident",
+                "José Joaquín Ripoll Serrano\nConseller de Presidència",
+                "José Luis Olivas Martínez\nConseller d'Economia, Hisenda i Administració Pública",
+                "Luis Fernando Cartagena Travesedo\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Francisco Enrique Camps Ortiz\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat",
+                "Diego Such Pérez\nConseller d'Ocupació, Indústria i Comerç",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura, Pesca i Alimentació",
+                "José Manuel Castellá Almiñana\nConseller de Medi Ambient",
+                "Marcela Miró Pérez\nConsellera de Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Segón govern (PP+UV) de 07/05/1996 a 24/02/1997",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro\nPresident",
+                "José Luis Olivas Martínez\nConseller d'Economia i Hisenda",
+                "José Joaquín Ripoll Serrano\nConseller d'Administració Pública\nConseller de Presidència des de 25/03/1996",
+                "Luis Fernando Cartagena Travesedo\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Marcela Miró Pérez\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat i Consum",
+                "José Sanmartín Esplugues\nConseller de Treball i Assumptes Socials",
+                "Diego Such Pérez\nConseller d'Indústria i Comerç",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura i Medi Ambient"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PP+UV) de 06/07/1995 a 07/05/1996",
+            "consejeros": [
+                "Eduardo Zaplana Hernández-Soro\nPresident",
+                "José Luis Olivas Martínez\nConseller d'Economia i Hisenda",
+                "José Joaquín Ripoll Serrano\nConseller d'Administració Pública\nConseller de Presidència desde 25/03/1996",
+                "Luis Fernando Cartagena Travesedo\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Fernando Villalonga Campos\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Farnós Gauchía\nConseller de Sanitat i Consum",
+                "José Sanmartín Esplugues\nConseller de Treball i Assumptes Socials",
+                "Diego Such Pérez\nConseller d'Indústria i Comerç",
+                "Maria Àngels Ramón-Llin i Martínez\nConsellera d'Agricultura i Medi Ambient"
+            ]
+        }
+    ],
+    "III Legislatura": [
+        {
+            "equipo": "Segon govern (PSPV-PSOE) de 12/07/1993 a 06/07/1995",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Aurelio Martínez Estévez\nConseller d'Economia i Hisenda",
+                "Luis Berenguer Fuster\nConseller d'Administració Pública",
+                "Eugenio Burriel de Orueta\nConseller d'Obres Públiques, Urbanisme i Transport",
+                "Pilar Pedraza Martínez\nConsellera de Cultura",
+                "Joan Romero González\nConseller d'Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Francisco Javier Sanahuja Sanchís\nConseller de Treball i Assumptes Socials",
+                "Martín Sevilla Jiménez\nConseller d'Indústria, Comerç i Turisme",
+                "Josep María Coll Comín\nConseller d'Agricultura i Pesca",
+                "Emèrit Bono i Martínez\nConseller de Medi Ambient"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PSPV-PSOE) de 16/07/1991 a 12/07/1993",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Emèrit Bono i Martínez\nConseller d'Administració Pública",
+                "Eugenio Burriel de Orueta\nConseller d'Obres Públiques, Urbanisme i Transport",
+                "Andreu López Blasco\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Martín Sevilla Jiménez\nConseller de Treball i Assumptes Socials",
+                "Andrés García Reche\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca",
+                "Antoni Escarré Esteve\nConseller de Medi Ambient"
+            ]
+        }
+    ],
+    "II Legislatura": [
+        {
+            "equipo": "Tercer govern (PSPV-PSOE) de 30/12/1989 a 16/07/1991",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Emèrit Bono i Martínez\nConseller d'Administració Pública",
+                "Eugenio Burriel de Orueta\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Antoni Escarré Esteve\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Miguel Doménech Pastor\nConseller de Treball i Seguretat Social",
+                "Andrés García Reche\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca"
+            ]
+        },
+        {
+            "equipo": "Segon govern (PSPV-PSOE) de 19/09/1989 a 30/12/1989",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Emèrit Bono i Martínez\nConseller d'Administració Pública",
+                "Rafael Blasco Castany\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Antoni Escarré Esteve\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Miguel Doménech Pastor\nConseller de Treball i Seguretat Social",
+                "Andrés García Reche\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PSPV-PSOE) de 27-07-1987 a 19-09-1989",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresidente",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Joaquín Azagra Ros\nConseller d'Administració Pública",
+                "Rafael Blasco Castany\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Ciprià Císcar i Casaban\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Miguel Doménech Pastor\nConseller de Treball i Seguretat Social",
+                "Andrés García Reche\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca"
+            ]
+        }
+    ],
+    "I Legislatura": [
+        {
+            "equipo": "Tercer govern (PSPV-PSOE) de 23/02/1987 a 27/07/1987",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident",
+                "Vicent Soler i Marco\nConseller d'Administració Pública",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Rafael Blasco Castany\nConseller d'Obres Públiques i Urbanisme",
+                "Ciprià Císcar i Casaban\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Miguel Doménech Pastor\nConseller de Treball i Seguretat Social",
+                "Andrés García Reche\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca"
+            ]
+        },
+        {
+            "equipo": "Segon govern (PSPV-PSOE) de 24/07/1985 a 23/02/1987",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident",
+                "Vicent Soler i Marco\nConseller d'Administració Pública",
+                "Antonio Birlanga Casanova\nConseller d'Economia i Hisenda",
+                "Rafael Blasco Castany\nConseller d'Obres Públiques i Urbanisme",
+                "Ciprià Císcar i Casaban\nConseller de Cultura, Educació i Ciència",
+                "Joaquín Colomer Sala\nConseller de Sanitat i Consum",
+                "Miguel Doménech Pastor\nConseller de Treball i Seguretat Social",
+                "Segundo Bru Parra\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura i Pesca"
+            ]
+        },
+        {
+            "equipo": "Primer govern (PSPV-PSOE) de 28/06/1983 a 24/07/1985",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident i Conseller de Governació",
+                "Rafael Blasco Castany\nConseller de la Presidència",
+                "Antonio Birlanga Casanova\nConseller d'Economía i Hisenda",
+                "Vicente Llombart Rosa\nConseller d'Obres Públiques, Urbanisme i Transports",
+                "Ciprià Císcar i Casaban\nConseller de Cultura, Educació i Ciència",
+                "Miguel Ángel Millana Sansaturio\nConseller de Sanitat, Seguretat Social i Treball",
+                "Segundo Bru Parra\nConseller d'Indústria, Comerç i Turisme",
+                "Luis Font de Mora Montesinos\nConseller d'Agricultura, Pesca i Alimentació"
+            ]
+        }
+    ],
+    "Govern de Transició": [
+        {
+            "equipo": "Segón govern de Transició (PSPV-PSOE+UCD+PCPV-PCE) de 01/12/1982 a 28/06/1983",
+            "consejeros": [
+                "Joan Lerma i Blasco\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident i Conseller de Governació",
+                "Antonio Birlanga Casanova\nConseller de Hisenda",
+                "Ciprià Císcar i Casaban\nConseller de Cultura, Educació i Ciència",
+                "Ángel Luna González\nConseller de Sanitat, Treball i Seguretat Social",
+                "Segundo Bru Parra\nConseller de Comerç i Indústria",
+                "Luis Verdú López\nConseller d'Obres Públiques i Urbanisme",
+                "Manuel Tarancón Fandos\nConseller d'Agricultura, Pesca i Alimentació",
+                "Vicente Gómez Chirivella\nConseller de Transports i Turisme",
+                "Enrique Monsonís Domingo\nConseller sense cartera",
+                "Jorge Navarro Canuto\nConseller sense cartera",
+                "José Luis Sorribes Mur\nConseller sense cartera",
+                "Amparo Cabanes Pecourt\nConsellera sense cartera"
+            ]
+        },
+        {
+            "equipo": "Primer govern de Transición (UCD+PSPV-PSOE+PCPV-PCE) de 11/08/1982 a 01/12/1982",
+            "consejeros": [
+                "Enrique Monsonís Domingo\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident i Conseller d'Interior",
+                "Ciprià Císcar i Casaban\nConseller de Cultura\nConseller de Sanitat i Seguretat Social de 11/08/1982 a 29/09/1982",
+                "Segundo Bru Parra\nConseller d'Economia, Comerç i Indústria",
+                "José Luis Sorribes Mur\nConseller adjunt a la Presidència",
+                "Jorge Navarro Canuto\nConseller d'Hisenda",
+                "Luis Verdú López Sanz\nConseller d'Obres Públiques i Urbanisme",
+                "Ángel Luna González.\nConseller de Treball\nConseller de Sanitat i Seguretat Social de 29/09/1982 a 01/12/1982",
+                "Amparo Cabanes Pecourt\nConsellera d'Educació",
+                "Vicente Gómez Chirivella\nConseller de Transport i Turisme"
+            ]
+        }
+    ],
+    "Govern Preautonòmic": [
+        {
+            "equipo": "Octau govern preautonòmic (UCD) d'01/10/1980 a 15/06/1981",
+            "consejeros": [
+                "Enrique Monsonís Domingo\nPresident",
+                "Felipe Guardiola Sellés\nVicepresident i Conseller d'Interior",
+                "Ciprià Císcar i Casaban\nConseller de Cultura",
+                "Segundo Bru Parra\nConseller d'Economia, Comerç i Indústria",
+                "Salvador López Sanz\nConseller de Sanitat i Seguretat Social",
+                "Jose Luis Sorribes Mur\nConseller adjunt a la Presidència",
+                "Jorge Navarro Canuto\nConseller de Hisenda",
+                "Luis Verdú López Sanz\nConseller d'Obres Públiques i Urbanisme",
+                "Amparo Cabanes Pecourt\nConsellera d'Educació",
+                "José Antonio Bordils Ferrer\nConseller d'Agricultura i Pesca. Cessa el 15/07/1982",
+                "Ángel Luna González\nConseller de Treball",
+                "Vicente Gómez Chirivella\nConseller de Transport Turisme"
+            ]
+        },
+        {
+            "equipo": "Sèptim govern preautonòmic (UCD) de 15/06/1981 a 15/09/1981",
+            "consejeros": [
+                "Enrique Monsonís Domingo\nPresident\nConseller d'Economia i Hisenda i Interior",
+                "José Peris Soler\nConseller d'Educació i Cultura\nConseller de Sanitat i Seguretat Social\nConseller de Treball",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç i Agricultura",
+                "José Luis Sorribes Mur\nConseller d'Obres Públiques i Urbanisme\nConseller de Turisme\nConseller de Transports i Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Sext govern preautonòmic (UCD) d'01/10/1980 a 15/06/1981",
+            "consejeros": [
+                "Enrique Monsonís Domingo\nPresident\nConseller d'Economia i Hisenda i Interior\nConseller de Treball",
+                "José Peris Soler\nConseller d'Educació i Cultura\nConseller de Sanitat i Seguretat Social",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç i Agricultura",
+                "José Luis Sorribes Mur\nConseller d'Obres Públiques i Urbanisme\nConseller de Turisme\nConseller de Transports i Benestar Social"
+            ]
+        },
+        {
+            "equipo": "Quint govern preautonòmic (UCD) de 17/12/1979 a 01/10/1980",
+            "consejeros": [
+                "Enrique Monsonís Domingo\nPresident\nConseller d'Economia i Hisenda i Interior\nConseller de Treball",
+                "José Peris Soler\nConseller d'Educació i Cultura\nConseller de Sanitat i Seguretat Social",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç i Agricultura",
+                "Antonio Espinosa Chapinal\nConseller d'Obres Públiques i Urbanisme\nConseller de Turisme\nConseller de Transports i Benestar Social\nCessa el 15/07/1980"
+            ]
+        },
+        {
+            "equipo": "Quart govern preautonòmic (PSPV-PSOE+UCD+PCPV-PCE) de 14/09/1979 a 17/12/1979",
+            "consejeros": [
+                "Josep Lluís Albiñana Olmos\nPresident",
+                "Enrique Monsonís Domingo\nConseller d'Economia i Hisenda, Interior i Treball, Obres Públiques i Urbanisme i Turisme",
+                "Antonio Espinosa Chapinal\nConseller de Transports i Benestar Social",
+                "José Peris Soler\nConseller d'Educació i Cultura i Sanitat i Seguretat Social",
+                "Antonio García Miralles\nConseller d'Obres Públiques i Urbanisme",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç i Agricultura",
+                "José Beviá Pastor\nConseller sense cartera",
+                "Antonio José Tirado Jiménez\nConseller sense cartera",
+                "Adela Pla Pastor\nConsellera sense cartera",
+                "José Galán Peláez\nConseller sense cartera",
+                "Francisco Armell Valero\nConseller per la Diputació Provincial d'Alacant",
+                "Salvador Miro San Juan\nConseller per la Diputació Provincial d'Alacant",
+                "Luis Verdú López\nConseller per la Diputació Provincial d'Alacant",
+                "Juan Forés Escurra\nConseller per la Diputació Provincial de Castelló",
+                "Abilio Lázaro Mengod\nConseller per la Diputació Provincial de Castelló",
+                "Julián Sanmillán Rius\nConseller per la Diputació Provincial de Castelló",
+                "Manuel Girona Rubio\nConseller per la Diputació Provincial de València",
+                "Vicente Gómez Chirivella\nConseller per la Diputació Provincial de València",
+                "Benjamín March Civera\nConseller per la Diputació Provincial de València"
+            ]
+        },
+        {
+            "equipo": "Tercer govern preautonòmic (PSPV-PSOE+UCD+PCPV-PCE) de 30/06/1979 a 14/09/1979",
+            "consejeros": [
+                "Josep Lluís Albiñana Olmos\nPresident",
+                "Enrique Monsonís Domingo\nConseller d'Economia i Hisenda, Interior i Treball, Obres Públiques i Urbanisme i Turisme",
+                "Antonio Espinosa Chapinal\nConseller de Transports i Benestar Social",
+                "José Peris Soler\nConseller d'Educació i Cultura i Sanitat i Seguretat Social",
+                "Antonio García Miralles\nConseller d'Obres Públiques i Urbanisme",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç i Agricultura",
+                "José Beviá Pastor\nConseller sense cartera",
+                "Antonio García Miralles\nConseller sense cartera",
+                "Adela Pla Pastor\nConsellera sense cartera",
+                "José Galán Peláez\nConseller sense cartera",
+                "Francisco Armell Valero\nConseller per la Diputació Provincial d'Alacant",
+                "Salvador Miro San Juan\nConseller per la Diputació Provincial d'Alacant",
+                "Luis Verdú López\nConseller per la Diputació Provincial d'Alacant",
+                "Juan Forés Escurra\nConseller per la Diputació Provincial de Castelló",
+                "Abilio Lázaro Mengod\nConseller per la Diputació Provincial de Castelló",
+                "Julián Sanmillán Rius\nConseller per la Diputació Provincial de Castelló",
+                "Manuel Girona Rubio\nConseller per la Diputació Provincial de València",
+                "Vicente Gómez Chirivella\nConseller per la Diputació Provincial de València",
+                "Benjamín March Civera\nConseller per la Diputació Provincial de València"
+            ]
+        },
+        {
+            "equipo": "Segon govern preautonòmic (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) d'01/11/1978 a 30/06/1979",
+            "consejeros": [
+                "Josep Lluís Albiñana Olmos\nPresident",
+                "Javier Aguirre de la Hoz\nConseller d'Economia i Hisenda",
+                "Fernando Vidal Gil\nConseller d'Interior",
+                "José Luis Barceló Rodríguez\nConseller d'Educació i Ciència",
+                "Antonio García Miralles\nConseller d'Obres Públiques i Urbanisme",
+                "Joan Lerma i Blasco\nConseller de Treball",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç",
+                "Enrique Monsonís Domingo\nConseller d'Agricultura",
+                "Alberto Jarabo Payá\nConseller de Turisme",
+                "Manuel Sánchez Ayuso\nConseller de Sanitat i Seguretat Social",
+                "José Beviá Pastor\nConseller de Cultura",
+                "José Galán Peláez\nConseller de Transports i Benestar Social",
+                "Bernardo Heredia Gutiérrez\nConseller sense cartera Alacant",
+                "Luis Ramón Martínez Pérez\nConseller sense cartera Castelló",
+                "Ignacio Docavo Alberti\nConseller sense cartera València"
+            ]
+        },
+        {
+            "equipo": "Primer govern preautonòmic (PSOE+UCD+AP+PSP+USPV+PCPV-PCE) de 10/04/1978 a 01/11/1978",
+            "consejeros": [
+                "Josep Lluís Albiñana Olmos\nPresident",
+                "Javier Aguirre de la Hoz\nConseller d'Economia i Hisenda",
+                "Fernando Vidal Gil\nConseller d'Interior",
+                "José Luis Barceló Rodríguez\nConseller d'Educació i Ciència",
+                "Antonio García Miralles\nConseller d'Obres Públiques i Urbanisme",
+                "Joan Lerma i Blasco\nConseller de Treball",
+                "Leonardo Ramón Sales\nConseller d'Indústria i Comerç",
+                "Enrique Monsonís Domingo\nConseller d'Agricultura",
+                "Alberto Jarabo Payá\nConseller de Turisme",
+                "Manuel Sánchez Ayuso\nConseller de Sanitat i Seguretat Social",
+                "José Beviá Pastor\nConseller de Cultura",
+                "Emèrit Bono i Martínez\nConseller de Transports i Benestar Social",
+                "Bernardo Heredia Gutiérrez\nConseller sense cartera Alacant",
+                "Luis Ramón Martínez Pérez\nConseller sense cartera Castelló",
+                "Ignacio Docavo Alberti\nConseller sense cartera València"
+            ]
+        }
+    ]
+}

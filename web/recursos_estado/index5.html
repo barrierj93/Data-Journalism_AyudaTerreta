@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard: Recursos del Estado</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .dashboard {
+            width: 100%;
+            max-width: 900px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+
+        /* Segunda fila para alinear tarjetas en mayor espacio */
+        .dashboard .row-2 {
+            grid-column: span 3;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .card {
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.2s;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        .card h2 {
+            font-size: 1.2em;
+            color: #333;
+            margin: 10px 0;
+        }
+
+        .icon {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .card-content {
+            font-size: 0.9em;
+            color: #555;
+            margin-top: 10px;
+        }
+
+        /* Popup styling */
+        .popup {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+            max-width: 300px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            z-index: 10;
+            text-align: left;
+        }
+
+        .popup h3 {
+            font-size: 1.1em;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .popup p {
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        /* Overlay for popup */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+            z-index: 5;
+        }
+
+        /* Card category colors */
+        .humanos { background-color: #d1e7dd; }
+        .materiales { background-color: #cfe2ff; }
+        .financieros { background-color: #fff3cd; }
+        .tecnologicos { background-color: #e2e3e5; }
+        .estrategicos { background-color: #f8d7da; }
+
+    </style>
+</head>
+<body>
+
+<div class="dashboard">
+    <!-- Primera fila de tarjetas -->
+    <div class="card humanos" onclick="showPopup('popup-humanos')">
+        <div class="icon">👥</div>
+        <h2>Recursos Humanos</h2>
+    </div>
+
+    <div class="card materiales" onclick="showPopup('popup-materiales')">
+        <div class="icon">🏗️</div>
+        <h2>Recursos Materiales</h2>
+    </div>
+
+    <div class="card financieros" onclick="showPopup('popup-financieros')">
+        <div class="icon">💰</div>
+        <h2>Recursos Financieros</h2>
+    </div>
+
+    <!-- Segunda fila de tarjetas -->
+    <div class="row-2">
+        <div class="card tecnologicos" onclick="showPopup('popup-tecnologicos')">
+            <div class="icon">💻</div>
+            <h2>Recursos Tecnológicos</h2>
+        </div>
+
+        <div class="card estrategicos" onclick="showPopup('popup-estrategicos')">
+            <div class="icon">🌍</div>
+            <h2>Recursos Estratégicos</h2>
+        </div>
+    </div>
+</div>
+
+<!-- Overlay para popups -->
+<div class="overlay" onclick="closePopup()"></div>
+
+<!-- Popups de cada tarjeta -->
+<div id="popup-humanos" class="popup">
+    <h3>Recursos Humanos</h3>
+    <p>Ejército y Fuerzas Armadas, Cuerpos de Seguridad, Emergencia y Salud, Administración, Educación y Ciencia.</p>
+</div>
+
+<div id="popup-materiales" class="popup">
+    <h3>Recursos Materiales</h3>
+    <p>Defensa y Seguridad, Equipos de Seguridad, Infraestructura Sanitaria, Equipamiento Administrativo.</p>
+</div>
+
+<div id="popup-financieros" class="popup">
+    <h3>Recursos Financieros</h3>
+    <p>Impuestos y Contribuciones, Deuda Pública, Fondos Europeos.</p>
+</div>
+
+<div id="popup-tecnologicos" class="popup">
+    <h3>Recursos Tecnológicos</h3>
+    <p>Redes de Comunicación, Plataformas Digitales, Ciberseguridad.</p>
+</div>
+
+<div id="popup-estrategicos" class="popup">
+    <h3>Recursos Estratégicos</h3>
+    <p>Energía, Reservas Alimentarias y Sanitarias, Recursos Naturales.</p>
+</div>
+
+<script>
+    function showPopup(id) {
+        document.getElementById(id).style.display = 'block';
+        document.querySelector('.overlay').style.display = 'block';
+    }
+
+    function closePopup() {
+        document.querySelectorAll('.popup').forEach(popup => popup.style.display = 'none');
+        document.querySelector('.overlay').style.display = 'none';
+    }
+</script>
+
+</body>
+</html>

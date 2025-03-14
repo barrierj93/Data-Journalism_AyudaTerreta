@@ -1,0 +1,138 @@
+[
+    {
+        "partido": "PPCV(42 diputados)",
+        "total_diputados": 42,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Luis Fernando Cartagena Travesedo",
+                "Diego Such Pérez",
+                "José Joaquín Ripoll Serrano",
+                "José Cholvi Diego",
+                "Genoveva Reig Ribelles",
+                "Rafael Maluenda Verdú",
+                "Macarena Montesinos de Miguel",
+                "Manuel Ortuño Cerdá-Cerdá",
+                "Carlos Rafael Alcalde Agesta",
+                "Juan Antonio Rodríguez Marín",
+                "Luis Concepción Moscardó",
+                "Pedro Hernández Mateo",
+                "María Josefa García Herrero",
+                "Sebastián Fernández Miralles",
+                "Clara Abellán García"
+            ],
+            "Castellón": [
+                "Carlos Fabra Carreras",
+                "Fernando Vicente Castelló Boronat",
+                "Enrique Gómez Guarner",
+                "Alejandro Font de Mora Turón",
+                "María Ascensión Figueres Górriz",
+                "Luis Tena Ronchera",
+                "Francisco Moliner Colomer",
+                "José Luis Ramírez Sorribes",
+                "Antonio Fornás Tuzón",
+                "Ángel Miguel Barrachina Ros",
+                "Manuel Ramírez Valentín"
+            ],
+            "Valencia": [
+                "Eduardo Zaplana Hernández-Soro",
+                "María Rita Barberá Nolla",
+                "José Luis Olivas Martínez",
+                "Carlos González Cepeda",
+                "Pedro Agramunt Font de Mora",
+                "Martín Luis Quirós Palau",
+                "José Sanmartín Esplugues",
+                "Susana Camarero Benítez",
+                "Serafín Castellano Gómez",
+                "Jorge Lamparero Lázaro",
+                "Fernando Giner Giner",
+                "María Luisa García Merita",
+                "José Manuel Uncio Lacasa",
+                "Rafael Sanchis Perales",
+                "José Vicente Villaescusa Blanca",
+                "José Manuel Botella Crespo"
+            ]
+        }
+    },
+    {
+        "partido": "PSPV-PSOE(32 diputados)",
+        "total_diputados": 32,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Antonio García Miralles",
+                "Martín Sevilla Jiménez",
+                "Luis Francisco Berenguer Fuster",
+                "Concepción Pérez Morales",
+                "Manuel Rodríguez Maciá",
+                "Antonio Moreno Carrasco",
+                "María Moreno Ruiz",
+                "Roberto García Blanes",
+                "Alfonso Arenas Férriz",
+                "Francisca Benabent Fuentes",
+                "Ramón Berenguer Prieto",
+                "Hermenegildo Rodríguez Pérez"
+            ],
+            "Castellón": [
+                "Francisco Javier Sanahuja Sanchis",
+                "Ernesto Fenollosa Ten",
+                "Rosa María Morte Julián",
+                "Jesús Huguet Pascual",
+                "María del Carmen Lorenz Sos",
+                "Enrique Manuel Ayet Fortuño",
+                "Ernesto Nabás Orenga",
+                "Avelino Roca Albert"
+            ],
+            "Valencia": [
+                "Joan Lerma Blasco",
+                "Clementina Ródenas Villena",
+                "Eugenio Burriel de Orueta",
+                "Carmen Begoña Gómez-Marco Pérez",
+                "Segundo Bru Parra",
+                "Antonio Castro Leache",
+                "Julio Millet España",
+                "Lourdes Alonso Belza",
+                "Víctor Fuentes Prósper",
+                "Eduardo Montesinos Chilet",
+                "Vicente Miguel Garcés Ramón",
+                "María Antonia de Armengol Criado"
+            ]
+        }
+    },
+    {
+        "partido": "EU-EV(10 diputados)",
+        "total_diputados": 10,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Pasqual Mollà Martínez",
+                "Alfredo Alfonso Botella Vicent",
+                "María Ángeles Martínez Esplá"
+            ],
+            "Castellón": [
+                "Francesc Colomer Sánchez",
+                "Carmen Cana Moñita"
+            ],
+            "Valencia": [
+                "Albert Taberner Ferrer",
+                "Ángeles Gloria Marcos Martí",
+                "Juan Pedro Zamora Suárez",
+                "Joan Ribó Canut",
+                "Dolors Pérez Martí"
+            ]
+        }
+    },
+    {
+        "partido": "UV-FICVA-CCV(5 diputados)",
+        "total_diputados": 5,
+        "diputados_por_circunscripcion": {
+            "Alicante": [],
+            "Castellón": [
+                "José Manuel Igual Nebot"
+            ],
+            "Valencia": [
+                "Vicente González Lizondo",
+                "Héctor Villalba Chirivella",
+                "Maria Àngels Ramón-Llin Martínez",
+                "Filiberto Crespo Samper"
+            ]
+        }
+    }
+]

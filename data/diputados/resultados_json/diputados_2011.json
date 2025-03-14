@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PPCV(55 diputados)",
+        "total_diputados": 55,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Sonia Castedo Ramos",
+                "Gerardo Camps Devesa",
+                "María Milagrosa Martínez Navarro",
+                "Luis Bernardo Díaz Alperi",
+                "Rafael Maluenda Verdú",
+                "José Císcar Bolufer",
+                "Trinidad María Miró Mira",
+                "Angélica Gemma Such Ronda",
+                "Mario Francisco José Flores Lanuza",
+                "David Francisco Serra Cervera",
+                "Ángela María Barceló Martorell",
+                "César Augusto Asencio Adsuar",
+                "Pedro Ángel Hernández Mateo",
+                "María José García Herrero",
+                "Andrés Antonio Ballester Costa",
+                "César Sánchez Pérez",
+                "María Elena Bonet Mancheño",
+                "Antonio Vicente Peral Villar",
+                "Yolanda García Santos",
+                "Eva Ortiz Vilella"
+            ],
+            "Castellón": [
+                "Alberto Fabra Part",
+                "María Soledad Linares Rodríguez",
+                "Manuel Cervera Taulet",
+                "Vicente Rambla Momplet",
+                "María Fernanda Vidal Causanilles",
+                "Alejandro Font de Mora Turón",
+                "Ricardo Costa Climent",
+                "Rosa María Barrieras Mombrú",
+                "Ricardo Martínez Rodríguez",
+                "María del Carmen Amorós Granell",
+                "Juan Mariano Castejón Chaler",
+                "Rubén Ibáñez Bordonau",
+                "Jaime Mundo Alberto"
+            ],
+            "Valencia": [
+                "Francisco Enrique Camps Ortiz",
+                "María Rita Barberá Nolla",
+                "Antonio Ángel Clemente Olivert",
+                "Francisca Mercedes Hernández Miñana",
+                "Alfonso Rus Terol",
+                "Juan Gabriel Cotino Ferrer",
+                "Paula Sánchez de León Guardiola",
+                "Rafael Blasco Castany",
+                "Serafín Castellano Gómez",
+                "Belén Juste Picón",
+                "María José Catalá Verdet",
+                "Vicente Betoret Coll",
+                "José Marí Olano",
+                "Alfredo Cesáreo Castelló Sáez",
+                "Alicia de Miguel García",
+                "Jorge Bellver Casaña",
+                "Verónica Marcos Puig",
+                "Rafael Ferraro Sebastiá",
+                "Eduardo Ovejero Adelantado",
+                "Esther Mártires Franco Aliaga",
+                "Luis Miguel Ibáñez Gadea",
+                "Fernando María Giner Giner"
+            ]
+        }
+    },
+    {
+        "partido": "PSPV-PSOE(33 diputados)",
+        "total_diputados": 33,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Ángel Luna González",
+                "Ana Barceló Chico",
+                "Vicente Arques Cortés",
+                "José Manuel Sánchez Asencio",
+                "María Vicenta Crespo Domínguez",
+                "Ferran Josep Verdú Monllor",
+                "Javier Carlos Macho Lorenzo",
+                "Julián López Milla",
+                "Verónica López Ramón",
+                "María Dolores Huesca Rodríguez",
+                "Antonio Torres Salvador",
+                "Jordi Serra Ferrer"
+            ],
+            "Castellón": [
+                "Francisco Toledo Lobo",
+                "Óscar Tena García",
+                "Clara Tirado Museros",
+                "Juan Ignacio Subías Ruiz de Villa",
+                "Ana María Besalduch Besalduch",
+                "José Benlloch Fernández",
+                "María José Salvador Rubert",
+                "Vicent Esteve Nebot",
+                "Delia Valero Ferri"
+            ],
+            "Valencia": [
+                "Jorge Alarte Gorbe",
+                "Carmen Martínez Ramírez",
+                "Cristina Moreno Fernández",
+                "Carmen Ninet Peña",
+                "Víctor Manuel Sahuquillo Martínez",
+                "Pilar Teresa Sarrión Ponce",
+                "Francesc de Borja Signes Núñez",
+                "Eva Martínez Ruiz",
+                "Rafael Rubio Martínez",
+                "Alfredo Miguel Boix Pastor",
+                "Juan Soto Ramírez",
+                "Josep Lluís Moreno Escrivà"
+            ]
+        }
+    },
+    {
+        "partido": "Coalició Compromís(6 diputados)",
+        "total_diputados": 6,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Mireia Mollà Herrera"
+            ],
+            "Castellón": [
+                "Josep Maria Pañella Alcácer"
+            ],
+            "Valencia": [
+                "Enric Xavier Morera i Català",
+                "Mónica Oltra Jarque",
+                "Juan Ignacio Ponce Guardiola",
+                "Francesc Xavier Ferri Fayos"
+            ]
+        }
+    },
+    {
+        "partido": "EUPV(5 diputados)",
+        "total_diputados": 5,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Lluís Torró Gil",
+                "Esther López Barceló"
+            ],
+            "Castellón": [
+                "Marina Albiol Guzmán"
+            ],
+            "Valencia": [
+                "Rosario Margarita Sanz Alonso",
+                "Ignacio Blanco Giner"
+            ]
+        }
+    }
+]

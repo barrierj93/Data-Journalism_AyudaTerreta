@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PPCV(40 diputados)",
+        "total_diputados": 40,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Carlos Arturo Mazón Guixot",
+                "María Gómez García",
+                "Juan Francisco Pérez Llorca",
+                "Lucía Peral Mateos",
+                "José Antonio Rovira Jover",
+                "Julia Parra Aparicio",
+                "Eduardo Jorge Dolón Sánchez",
+                "María del Rosario Escrig Llinares",
+                "José Ramón González de Zarate Unamuno",
+                "José Juan Zaplana López",
+                "Francisco Javier Sendra Mengual",
+                "Eva Ortiz Vilella",
+                "Fernando Pastor Llorens",
+                "María Luisa Gayo Madera",
+                "Noelia Císcar Martínez"
+            ],
+            "Castellón": [
+                "Alberto Fabra Part",
+                "Marta Barrachina Mateu",
+                "Miguel Barrachina Ros",
+                "Salomé Pradas Ten",
+                "Rubén Ibáñez Bordonau",
+                "Susana Fabregat Carrasquer",
+                "Salvador Aguilella Ramos",
+                "Beatriz Gascó Enríquez",
+                "Adoración Llop Montón",
+                "Wenceslao Alós Valls"
+            ],
+            "Valencia": [
+                "María José Català Verdet",
+                "Vicente José Mompó Aledo",
+                "Pablo G. Broseta Dupre",
+                "Elena María Bastidas Bono",
+                "Víctor Soler Beneyto",
+                "Francisca Bartual Bermell",
+                "Ruth María Merino Peña",
+                "Alfredo Cesáreo Castelló Sáez",
+                "María Dolores Roch Cazorla",
+                "Ernesto Fernández Pardo",
+                "Magdalena María González la Red",
+                "Laura Chulià Serra",
+                "Vicente Betoret Coll",
+                "Verónica Marcos Puig",
+                "Felipe Javier Carrasco Torres"
+            ]
+        }
+    },
+    {
+        "partido": "PSPV-PSOE(31 diputados)",
+        "total_diputados": 31,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Josefina Bueno Alonso",
+                "Laura Soler Azorín",
+                "Yaissel Sánchez Orta",
+                "David Bernardo López Lluch",
+                "Mario Villar García",
+                "Charo Navalón García",
+                "Mayte García Madrid",
+                "José Chulvi Español",
+                "Ramón Abad Soler",
+                "Marisa Navarro Forcada",
+                "Nuria Pina Huertas"
+            ],
+            "Castellón": [
+                "Rafael Simó Sancho",
+                "María José Salvador Rubert",
+                "Silvia Gómez Rey",
+                "José Luis Lorenz Andrés",
+                "Ana María Besalduch Besalduch",
+                "Rocío Ibáñez Candelera",
+                "Ernest Blanch Marín",
+                "Carlos Laguna Asensi"
+            ],
+            "Valencia": [
+                "Joaquim Francesc Puig Ferrer",
+                "Rebeca Torró Soler",
+                "Arcadi España García",
+                "Gabriela Bravo Sanestanislao",
+                "Miguel Mínguez Pérez",
+                "Cristina Martínez García",
+                "Toni Gaspar Ramos",
+                "Carmen Martínez Ramírez",
+                "José Muñoz Lladró",
+                "Mercedes Caballero Hueso",
+                "Rosa María Peris Cervera",
+                "Alicia Andújar Durá"
+            ]
+        }
+    },
+    {
+        "partido": "Compromís(15 diputados)",
+        "total_diputados": 15,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Aitana Joana Mas Mas",
+                "Gerard Fullana Martínez",
+                "María José Calabuig Vanyó",
+                "Juan Bordera Romá"
+            ],
+            "Castellón": [
+                "Vicent Marzà Ibáñez",
+                "Verònica Ruiz Escrig",
+                "Mònica Álvaro Cerezo"
+            ],
+            "Valencia": [
+                "Joan Baldoví Roda",
+                "Maria Josep Amigó Laguarda",
+                "Carles Esteve Aparicio",
+                "Francesc Roig Oliver",
+                "Paula Espinosa Giménez",
+                "Nathalie Torres García",
+                "Isaura Navarro Casillas",
+                "Jesús Pla Herrero"
+            ]
+        }
+    },
+    {
+        "partido": "Vox(13 diputados)",
+        "total_diputados": 13,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Ana Vega Campos",
+                "David García Gomis",
+                "Miguel Pascual Pérez",
+                "Julia María Llopis Noheda",
+                "María Teresa Ramírez Jurado"
+            ],
+            "Castellón": [
+                "María de los Llanos Massó Linares",
+                "David Muñoz Pérez",
+                "Jesús Albiol Talaya"
+            ],
+            "Valencia": [
+                "Carlos Flores Juberías",
+                "José María Llanos Pitarch",
+                "María de los Ángeles Criado Gonzálbez",
+                "José Luis Aguirre Larrauri",
+                "Miriam Turiel Mollá"
+            ]
+        }
+    }
+]

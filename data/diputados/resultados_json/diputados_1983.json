@@ -1,0 +1,127 @@
+[
+    {
+        "partido": "PSPV-PSOE(51 diputados)",
+        "total_diputados": 51,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Antonio García Miralles",
+                "Alberto Javier Pérez Ferre",
+                "Ángel Luna González",
+                "Emilio Soler Pascual",
+                "Francisco Rodríguez Valderrama",
+                "Juan Bautista Pastor Marco",
+                "María Dolores Marcos González",
+                "Manuel Adriano Arabid Cantos",
+                "Enrique Louis Rampa",
+                "José Asensi Sabater",
+                "Hermenegildo Rodríguez Pérez",
+                "Miguel Antonio Millana Sansaturio",
+                "Luis Gabriel Torregrosa Mira",
+                "Ramón Berenguer Prieto",
+                "Joaquín Fuster Pérez",
+                "Emilio José Álvarez Landete",
+                "José Luis Gomis Gavilán"
+            ],
+            "Castellón": [
+                "Felipe Guardiola Sellés",
+                "Ernesto Fenollosa Ten",
+                "Juan Callao Capdevila",
+                "Miguel López Muñoz",
+                "Félix Rodríguez Velasco",
+                "Alfredo Roé Justiniano",
+                "Agapito Martínez Ansuátegui",
+                "Joaquín Nebot Monzonís",
+                "Joaquim Francesc Puig Ferrer",
+                "José Rubio Segarra",
+                "Ricardo Núñez Martín",
+                "Gonzalo Centelles Nebot",
+                "Jaime López Granell",
+                "Juan Sanchordi Pitarch"
+            ],
+            "Valencia": [
+                "Joan Lerma Blasco",
+                "Cipriano Jesús Ciscar Casabán",
+                "Segundo Bru Parra",
+                "Leandro Picher Buenaventura",
+                "María Antonia de Armengol Criado",
+                "Antonio Cebrián Ferrer",
+                "Rafael Blasco Castany",
+                "Luis Font de Mora Montesinos",
+                "Fernando Vidal Gil",
+                "Josefa Frau Ribes",
+                "Vicent Enric Soler Marco",
+                "Víctor Fuentes Prósper",
+                "Juan Andrés Perelló Rodríguez",
+                "Rafael Recuenco Montero",
+                "José León Bonacho",
+                "Joan Calabuig Rull",
+                "Luis Peiró Roselló",
+                "José Francisco Peris Almiñana",
+                "Antonio Salazar Cifre",
+                "Julio Millet España"
+            ]
+        }
+    },
+    {
+        "partido": "AP-PDP-ULUV(32 diputados)",
+        "total_diputados": 32,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "José Cholbi Diego",
+                "Joaquín Galant Ruiz",
+                "Antonio Martínez Serrano",
+                "Rafael Maluenda Verdú",
+                "Antonio García Agredas",
+                "Antonio Alonso Gutiérrez",
+                "Enrique Ferré Sampere",
+                "Vicente Pérez Devesa",
+                "Joaquín Santo Matas",
+                "Joaquín Vidal Negre"
+            ],
+            "Castellón": [
+                "José Tovar Vicente",
+                "Joaquín Farnós Gauchía",
+                "Daniel Ansuátegui Ramo",
+                "José Antonio Bandrés Salvador",
+                "José Murria Arnau",
+                "Salvador Llácer Baixaulí",
+                "Francisco Martínez Clausich",
+                "Vicente Navarro Viciedo",
+                "José Vives Borrás",
+                "José Jaime Fernández Campello"
+            ],
+            "Valencia": [
+                "Manuel Giner Miralles",
+                "José Rafael García-Fuster y González Alegre",
+                "Xavier Casp Vercher",
+                "María Rita Barberá Nolla",
+                "Carlos Albelda Climent",
+                "Fernando José Martínez Roda",
+                "José María de Andrés Ferrando",
+                "María José Sansegundo Fortea",
+                "Salvador Sanchis Perales",
+                "Manuel Campillo Martínez",
+                "Juan Marco Molines",
+                "Joaquín Martín Mínguez"
+            ]
+        }
+    },
+    {
+        "partido": "PCE-PCPV(6 diputados)",
+        "total_diputados": 6,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Alfredo Alfonso Botella Vicent",
+                "Manuel Martínez Lledó"
+            ],
+            "Castellón": [
+                "Vicente Zaragozá Messeguer"
+            ],
+            "Valencia": [
+                "José Galán Peláez",
+                "Vicente Gómez Chirivella",
+                "Antonio Palomares Vinuesa"
+            ]
+        }
+    }
+]

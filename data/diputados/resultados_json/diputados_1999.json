@@ -1,0 +1,127 @@
+[
+    {
+        "partido": "PPCV(49 diputados)",
+        "total_diputados": 49,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "José Joaquín Ripoll Serrano",
+                "Carmen Galipienso Calatayud",
+                "Juan Manuel Cabot Saval",
+                "Macarena Montesinos de Miguel",
+                "José Cholbi Diego",
+                "María del Carmen Nácher Pérez",
+                "Rafael Maluenda Verdú",
+                "María Josefa García Herrero",
+                "Manuel Ortuño Cerdá",
+                "Francisca Pérez Barber",
+                "Juan Rodríguez Marín",
+                "Luis Concepción Moscardó",
+                "Pedro Hernández Mateo",
+                "María Estela Canales Martínez-Pinna",
+                "Manuel Pérez Fenoll",
+                "José Antonio Rovira Jover"
+            ],
+            "Castellón": [
+                "Carlos Fabra Carreras",
+                "Fernando Vicente Castelló Boronat",
+                "María Ascensión Figueres Górriz",
+                "Alejandro Font de Mora Turón",
+                "José Luis Ramírez Sorribes",
+                "Luis Tena Ronchera",
+                "Rosa María Barrieras Mombrú",
+                "Ricardo Costa Climent",
+                "Ángel Miguel Barrachina Ros",
+                "Antonio Fornás Tuzón",
+                "Laura Gómez Abego",
+                "Manuel Ignacio Prieto Honorato"
+            ],
+            "Valencia": [
+                "Eduardo Zaplana Hernández-Soro",
+                "María Rita Barberá Nolla",
+                "José Luis Olivas Martínez",
+                "Maria Àngels Ramón-Llin Martínez",
+                "Manuel Tarancón Fandos",
+                "Susana Camarero Benítez",
+                "Serafín Castellano Gómez",
+                "Marcela Miró Pérez",
+                "José Rafael Díez Cuquerella",
+                "Alicia de Miguel García",
+                "Martín Luis Quirós Palau",
+                "Esther Mártires Franco Aliaga",
+                "Antonio Ángel Clemente Olivert",
+                "María del Carmen Mas Rubio",
+                "José Manuel Botella Crespo",
+                "Alejandra Climent Jordá",
+                "Joaquín Soler Garibo",
+                "Encarna Cervera Mañas",
+                "David Francisco Serra Cervera",
+                "Amparo Sancho Vicente",
+                "Rafael Ferraro Sebastiá"
+            ]
+        }
+    },
+    {
+        "partido": "PSOE-Progresistas(35 diputados)",
+        "total_diputados": 35,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Antonio Moreno Carrasco",
+                "María Dolores Mollá Soler",
+                "José Vicente Sanús Tormo",
+                "María Trinidad Amorós Fillol",
+                "Antonio Torres Salvador",
+                "María Moreno Ruiz",
+                "Eduardo Vicente Navarro",
+                "María Consuelo Català Pérez",
+                "Luis Briñas López",
+                "José Pérez Grau",
+                "Ramón Berenguer Prieto",
+                "Carmen Osuna Cubero"
+            ],
+            "Castellón": [
+                "Joaquim Francesc Puig Ferrer",
+                "María de las Mercedes Sanchordi García",
+                "Francesc Colomer Sánchez",
+                "Joaquín González Sospedra",
+                "Gema Torres Zaragozá",
+                "Daniel Gozalbo Bellés",
+                "Avelino Roca Albert",
+                "Cristina Lozano Salvador",
+                "Carmina Martinavarro Molla"
+            ],
+            "Valencia": [
+                "Antonio Asunción Hernández",
+                "Cristina Moreno Fernández",
+                "Antoni Lozano Pastor",
+                "María José Mendoza García",
+                "Juan Jesús Ros Piles",
+                "Juan Andrés Perelló Rodríguez",
+                "Josefa Andrés Barea",
+                "Carmen Ninet Peña",
+                "Baltasar Vives Moncho",
+                "Begoña Gómez-Marco Pérez",
+                "María Antonia de Armengol Criado",
+                "José Camarasa Albertos",
+                "Vicent Manuel Sarrià Morell",
+                "Joan Francesc Peris García"
+            ]
+        }
+    },
+    {
+        "partido": "EUPV(5 diputados)",
+        "total_diputados": 5,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Juan Antonio Oltra Soler",
+                "Ángela Llinares Llorca"
+            ],
+            "Castellón": [
+                "Ramón Cardona Pla"
+            ],
+            "Valencia": [
+                "Joan Ribó Canut",
+                "Dolors Pérez Martí"
+            ]
+        }
+    }
+]

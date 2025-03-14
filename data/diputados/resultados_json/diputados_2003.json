@@ -1,0 +1,127 @@
+[
+    {
+        "partido": "PP(48 diputados)",
+        "total_diputados": 48,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Julio Francisco de España Moya",
+                "Macarena Montesinos de Miguel",
+                "Juan Manuel Cabot Saval",
+                "María del Carmen Nácher Pérez",
+                "José Cholbi Diego",
+                "Ana Encabo Balbín",
+                "Rafael Maluenda Verdú",
+                "María Josefa García Herrero",
+                "Fernando Modrego Caballero",
+                "Gema Amor Pérez",
+                "Manuel Gómez Fernández",
+                "María Estela Canales Martínez-Pinna",
+                "Juan Seva Martínez",
+                "Mónica Isabel Lorente Ramón",
+                "Manuel Pérez Fenoll",
+                "Cristina Serrano Mateo"
+            ],
+            "Castellón": [
+                "José Víctor Campos Guinot",
+                "Rosa María Barrieras Mombrú",
+                "Alejandro Font de Mora Turón",
+                "Fernando Vicente Castelló Boronat",
+                "Ana Michavila Núñez",
+                "María Soledad Linares Rodríguez",
+                "Vicente Rambla Momplet",
+                "Elvira Suanzes Fernández",
+                "Ricardo Costa Climent",
+                "José Luis Ramírez Sorribes",
+                "José Blas Moles Alagarda",
+                "Francisco Javier Tomás Puchol",
+                "Jaime Mundo Alberto"
+            ],
+            "Valencia": [
+                "Francisco Enrique Camps Ortiz",
+                "María Rita Barberá Nolla",
+                "Alicia de Miguel García",
+                "Serafín Castellano Gómez",
+                "Maria Àngels Ramón-Llin Martínez",
+                "Verónica Marcos Puig",
+                "Manuel Tarancón Fandos",
+                "Esther Mártires Franco Aliaga",
+                "Carlos Javier González Cepeda",
+                "Alejandra Climent Jordá",
+                "Rafael Blasco Castany",
+                "Amparo Sancho Vicente",
+                "Antonio Ángel Clemente Olivert",
+                "Estefania Elena Martínez Zaragoza",
+                "Joaquín Soler Garibo",
+                "Asunción Quinzá Alegre",
+                "Eduardo Ovejero Adelantado",
+                "José Emilio Cervera Llavador",
+                "Rafael Ferraro Sebastiá"
+            ]
+        }
+    },
+    {
+        "partido": "PSOE(35 diputados)",
+        "total_diputados": 35,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Diego Maciá Antón",
+                "María del Carmen Sánchez Brufal",
+                "Antonio Moreno Carrasco",
+                "Encarnación Llinares Cuesta",
+                "Vicente Escrig Peris",
+                "María Consuelo Català Pérez",
+                "Eduardo Vicente Navarro",
+                "Rebeca Lirios Soler Cejudo",
+                "Antonio Torres Salvador",
+                "María Dolores Gay Bódalo",
+                "Juan de Dios Falcó Rico",
+                "José Antonio Godoy García"
+            ],
+            "Castellón": [
+                "Joaquim Francesc Puig Ferrer",
+                "María Amparo Marco Gual",
+                "Francesc Colomer Sánchez",
+                "Isabel María Escudero Pitarch",
+                "Joaquín González Sospedra",
+                "María de las Mercedes Sanchordi García",
+                "Adolfo Sanmartín Besalduch",
+                "María José Mendoza García",
+                "Tomás Polo Poveda"
+            ],
+            "Valencia": [
+                "Joan Ignasi Pla Durà",
+                "Josefa Frau Ribes",
+                "Vicent Manuel Sarrià Morell",
+                "María Nuria Espí de Navas",
+                "Antonio Such Botella",
+                "Jeannette Segarra Sales",
+                "Juan Jesús Ros Piles",
+                "Ana Isabel Noguera Montagud",
+                "Antoni Lozano Pastor",
+                "Cristina Moreno Fernández",
+                "Juan Andrés Perelló Rodríguez",
+                "Josefa Andrés Barea",
+                "José Camarasa Albertos",
+                "Carmen Ninet Peña"
+            ]
+        }
+    },
+    {
+        "partido": "ENTESA(6 diputados)",
+        "total_diputados": 6,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Juan Antonio Oltra Soler",
+                "Alfred Botella Vicent"
+            ],
+            "Castellón": [
+                "Ramón Cardona Pla"
+            ],
+            "Valencia": [
+                "Joan Ribó Canut",
+                "Carles Arnal Ibáñez",
+                "Dolors Pérez Martí"
+            ]
+        }
+    }
+]

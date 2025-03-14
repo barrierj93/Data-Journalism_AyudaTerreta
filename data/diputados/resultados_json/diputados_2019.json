@@ -1,0 +1,173 @@
+[
+    {
+        "partido": "PSPV-PSOE(27 diputados)",
+        "total_diputados": 27,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Ana Barceló Chico",
+                "José Francisco Chulvi Español",
+                "Laura Soler Azorín",
+                "Manuel Pineda Cuenca",
+                "Antonia Serna Serrano",
+                "Vicent Arques Cortés",
+                "María Sandra Martín Pérez",
+                "Francisco Rubio Delgado",
+                "Rosa de Falastín Mustafá Ávila",
+                "Jesús Sellés Quiles"
+            ],
+            "Castellón": [
+                "Joaquín Francisco Puig Ferrer",
+                "María José Salvador Rubert",
+                "Ernest Blanch Marín",
+                "María Sabina Escrig Monzó",
+                "Carlos Laguna Asensi",
+                "Ana María Besalduch Besalduch",
+                "Francisco Gil García"
+            ],
+            "Valencia": [
+                "Manuel Mata Gómez",
+                "Gabriela Bravo Sanestanislao",
+                "Vicent Soler i Marco",
+                "Mercedes Caballero Hueso",
+                "José Muñoz Lladró",
+                "Carmen Martínez Ramírez",
+                "Alfred Boix Pastor",
+                "Concepción Andrés Sanchís",
+                "David Calvo Alfonso",
+                "Rosa María Peris Cervera"
+            ]
+        }
+    },
+    {
+        "partido": "PPCV(19 diputados)",
+        "total_diputados": 19,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "José Císcar Bolufer",
+                "Eva Ortiz Vilella",
+                "Adrián Ballester Espinosa",
+                "Elisa Díaz González",
+                "José Juan Zaplana López",
+                "José Antonio Rovira Jover",
+                "Manuel Pérez Fenoll"
+            ],
+            "Castellón": [
+                "Miguel Barrachina Ros",
+                "Luis Martínez Fuentes",
+                "Rubén Ibáñez Bordonau",
+                "Beatriz Gascó Enríquez",
+                "María Luisa Mezquita Juan"
+            ],
+            "Valencia": [
+                "Isabel Plácida Bonig Trigueros",
+                "Elena María Bastidas Bono",
+                "Felipe Javier Carrasco Torres",
+                "Jorge Bellver Casaña",
+                "Alfredo Cesáreo Castelló Sáez",
+                "María José Català Verdet",
+                "Juan Carlos Caballero Montañés"
+            ]
+        }
+    },
+    {
+        "partido": "Ciudadanos(18 diputados)",
+        "total_diputados": 18,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "María Quiles Bailén",
+                "Yaneth Lucía Giraldo Jiménez",
+                "Emigdio Tormo Moratalla",
+                "José Antonio Martínez Ortega",
+                "Fernando Enrique Llopis Pascual",
+                "Antonio Joaquín Woodward Poch",
+                "Rosa María Menor Lucas"
+            ],
+            "Castellón": [
+                "Mercedes Ventura Campos",
+                "Cristina Gabarda Ortín",
+                "Eduardo del Pozo Querol",
+                "Vicente Fernández García"
+            ],
+            "Valencia": [
+                "Antonio Cantó García del Moral",
+                "Ruth María Merino Peña",
+                "María del Carmen Peris Navarro",
+                "Carlos Pablo Gracia Calandín",
+                "Jesús Salmerón Berga",
+                "Patricia García Guasp",
+                "Luis Arquillos Cruz"
+            ]
+        }
+    },
+    {
+        "partido": "Compromís(17 diputados)",
+        "total_diputados": 17,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Aitana Joana Mas Mas",
+                "Rafael Climent González",
+                "José Ramón Nadal Sendra",
+                "Cristina Rodríguez Armigen"
+            ],
+            "Castellón": [
+                "Vicent Marzà Ibáñez",
+                "Mònica Álvaro Cerezo",
+                "Belén Bachero Traver",
+                "José Silverio Tena Sánchez"
+            ],
+            "Valencia": [
+                "Mónica Oltra Jarque",
+                "Francesc Xavier Ferri Fayos",
+                "Graciela Noemí Ferrer Matvieychuc",
+                "Enric Xavier Morera i Català",
+                "Juan Ignacio Ponce Guardiola",
+                "Carmen Luisa Robles Galindo",
+                "Carlos Esteve Aparicio",
+                "Nathalie Torres García",
+                "Jesús Pla Herrero"
+            ]
+        }
+    },
+    {
+        "partido": "Vox(10 diputados)",
+        "total_diputados": 10,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Ana Vega Campos",
+                "David García Gomis",
+                "Miguel Pascual Pérez",
+                "Ana María Cerdán Martínez"
+            ],
+            "Castellón": [
+                "María de los Llanos Massó Linares",
+                "David Muñoz Pérez"
+            ],
+            "Valencia": [
+                "José María Llanos Pitarch",
+                "Ángeles Criado Gonzálbez",
+                "Vicente Manuel Roglá Benedito",
+                "José Luis Aguirre Larrauri"
+            ]
+        }
+    },
+    {
+        "partido": "Unides Podem(8 diputados)",
+        "total_diputados": 8,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Rubén Martínez Dalmau",
+                "Beatriz Gascó Verdier",
+                "Estefanía de los Reyes Blanes León"
+            ],
+            "Castellón": [
+                "Irene Rosario Gómez Santos",
+                "Cristina Cabedo Laborda"
+            ],
+            "Valencia": [
+                "María Pilar Lima Gozálvez",
+                "Rosa María Pérez Garijo",
+                "Ferrán Martínez Ruiz"
+            ]
+        }
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "partido": "PSPV-PSOE(42 diputados)",
+        "total_diputados": 42,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Antonio García Miralles",
+                "Alberto Pérez Ferré",
+                "Emilio Soler Pascual",
+                "José Asensi Sabater",
+                "María Dolores Marcos González",
+                "Miguel Antonio Millana Sansaturio",
+                "Juan Bautista Pastor Marco",
+                "Martín Sevilla Jiménez",
+                "Hermenegildo Rodríguez Pérez",
+                "Enrique Louis Rampa",
+                "Luis Gabriel Torregrosa Mira",
+                "Antonio Pérez Olcina",
+                "Ramón Berenguer Prieto",
+                "José Luis Gomis Gavilán"
+            ],
+            "Castellón": [
+                "Felipe Guardiola Sellés",
+                "Ernesto Fenollosa Ten",
+                "Juan Callao Capdevila",
+                "Félix Rodríguez Velasco",
+                "Ernesto Nabás Orenga",
+                "Alfredo Roé Justiniano",
+                "Rosa María Morte Julián",
+                "León Bravo Escoi",
+                "Joaquín Nebot Monzonís",
+                "Avelino Roca Albert",
+                "Artemi Vicent Rallo Lombarte"
+            ],
+            "Valencia": [
+                "Joan Lerma Blasco",
+                "Cipriano Ciscar Casabán",
+                "Rafael Blasco Castany",
+                "Vicent Enric Soler Marco",
+                "Luis Font de Mora Montesinos",
+                "Antonio Birlanga Casanova",
+                "Segundo Bru Parra",
+                "Rafael Recuenco Montero",
+                "María Antonia de Armengol Criado",
+                "Antonio Castro Leache",
+                "José Garés Crespo",
+                "Víctor Fuentes Prósper",
+                "Julio Millet España",
+                "Vicente Miguel Garcés Ramón",
+                "Leandro Picher Buenaventura",
+                "Joan Calabuig Rull",
+                "Antonio Cebrián Ferrer"
+            ]
+        }
+    },
+    {
+        "partido": "FAP(25 diputados)",
+        "total_diputados": 25,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Rafael Maluenda Verdú",
+                "Carlos Rafael Alcalde Agesta",
+                "Joaquín Santo Matas",
+                "Manuel Lorente Belmonte",
+                "Guillermo Sirvent Sirvent",
+                "Enrique Ferrer Sampere",
+                "Jaime Botella Mayor",
+                "Francisco Magro Espí",
+                "Juan Salvador Gaya Sastre"
+            ],
+            "Castellón": [
+                "Francisco Martínez Clausich",
+                "Daniel Ansuátegui Ramo",
+                "Enrique Eduardo Gómez Guarner",
+                "Joaquín Farnós Gauchía",
+                "Vicent Marco Moreno",
+                "José Antonio Boix González",
+                "José Vives Borrás",
+                "Francisco Javier Perelló Oliver"
+            ],
+            "Valencia": [
+                "María Rita Barberá Nolla",
+                "Manuel Giner Miralles",
+                "José Rafael García-Fuster y González Alegre",
+                "Jorge Lamparero Lázaro",
+                "Rafael Sanchis Perales",
+                "Fernando José Martínez Roda",
+                "Carlos Albelda Climent",
+                "Enrique López Salva"
+            ]
+        }
+    },
+    {
+        "partido": "CDS(10 diputados)",
+        "total_diputados": 10,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Gerardo Muñoz Lorente",
+                "Manuel Benabent Fuentes",
+                "José Ramón Navarro Nicolau",
+                "Salvador Ruso Pacheco"
+            ],
+            "Castellón": [
+                "Pedro Enrique Gozalbo Herrero",
+                "Vicente Bueso Aragonés",
+                "Carlos Laguna Asensi"
+            ],
+            "Valencia": [
+                "José Luis Boado Martínez",
+                "Luis Gil-Orozco Roda",
+                "Luis Ricardo Baquero Valdelomar"
+            ]
+        }
+    },
+    {
+        "partido": "Unión Valenciana(6 diputados)",
+        "total_diputados": 6,
+        "diputados_por_circunscripcion": {
+            "Alicante": [],
+            "Castellón": [],
+            "Valencia": [
+                "Filiberto Crespo Samper",
+                "Manuel Campillos Martínez",
+                "Vicente Blasco-Ibáñez Tortosa",
+                "Héctor Villalba Chirivella",
+                "Maria Àngels Ramón-Llin Martínez",
+                "Miquel Ramón Quiles"
+            ]
+        }
+    },
+    {
+        "partido": "EU-UPV(6 diputados)",
+        "total_diputados": 6,
+        "diputados_por_circunscripcion": {
+            "Alicante": [
+                "Alfredo Alfonso Botella Vicent",
+                "Pasqual Mollà Martínez"
+            ],
+            "Castellón": [
+                "Aureli Ferrando Muria"
+            ],
+            "Valencia": [
+                "Albert Taberner Ferrer",
+                "Juan Pedro Zamora Suárez",
+                "Pere Miquel Mayor Penadés"
+            ]
+        }
+    }
+]

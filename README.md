@@ -23,8 +23,4 @@ Proyecto abierto de investigación sobre el contexto de la catástrofe ambiental
 
 ✅ Datos organizados por partido y circunscripción.
 
-## Próximos Pasos
-- Visualización de datos.
-- Análisis de tendencias.
-- Integración con SQL.
 
